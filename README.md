@@ -25,6 +25,14 @@ Transform your text into 100+ different font styles:
 - Circled and Squared text
 - Regional indicators and more
 
+## Screenshots
+
+![Instagram Bio Generator Search](public/Instagram%20BIo%20Generator%20Search%201.png)
+
+![Instagram Bio for Girls Flipping Cards](public/Instagram%20Bio%20for%20Girls%20Flipping%20Cards.png)
+
+![Instagram Bio for Girls Flipping Cards 2](public/Instagram%20Bio%20for%20Girls%20Flipping%20Cards%202.png)
+
 ## Usage
 
 ### Instagram Bio Search
