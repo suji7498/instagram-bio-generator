@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+Disallow: 
+
+Sitemap: https://ig-fonts.app/sitemap.xml
+
+User-agent: Googlebot
+Allow: /
+Disallow: 
+
+User-agent: Bingbot
+Allow: /
+Disallow:
+
+User-agent: *
+Disallow: /private/
+Disallow: /admin/
+Disallow: /cgi-bin/
+Disallow: /tmp/

@@ -1,0 +1,804 @@
+{
+  "instagramBios": [
+    {
+      "id": "girl_bio_001",
+      "text": "🌸 Smiling through every sunset\n💖 Living life in full bloom\n🍫 Chocolate Lover\n✨ Just a girl with a heart full of dreams",
+      "language": "English",
+      "categories": ["Girls", "Inspirational", "Love", "Dreams"],
+      "keywords": ["Smiling", "sunset", "bloom", "Chocolate Lover", "dreams"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_002",
+      "text": "👑 Queen of my own little world\n🌈 Chasing rainbows and dreams\n🦄 Magic in her soul\n💬 Speak your mind but always from the heart",
+      "language": "English",
+      "categories": ["Girls", "Attitude", "Dreams", "Inspirational", "Unique"],
+      "keywords": ["Queen", "rainbows", "dreams", "Magic", "soul", "heart"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_003",
+      "text": "💕 Creating my own sunshine on cloudy days\n🚀 Dreaming big, working hard\n😇 Sweet but know how to stand up for myself",
+      "language": "English",
+      "categories": ["Girls", "Dreams", "Motivational", "Inspirational"],
+      "keywords": ["sunshine", "Dreaming big", "working hard", "Sweet", "stand up"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_004",
+      "text": "✨ Glowing with self-love\n🌼 Blooming where I’m planted\n🔥 Confidence with kindness is my vibe",
+      "language": "English",
+      "categories": ["Girls", "Inspirational", "Unique"],
+      "keywords": ["Glowing", "self-love", "Blooming", "Confidence", "kindness"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_005",
+      "text": "🌙 Dreamer with messy hair and a big heart\n🌸 Spreading positive vibes only\n💎 Unique as a diamond",
+      "language": "English",
+      "categories": ["Girls", "Dreams", "Unique", "Inspirational"],
+      "keywords": ["Dreamer", "messy hair", "big heart", "positive vibes", "diamond"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_006",
+      "text": "💋 Too glam to give a damn\n👠 Heels higher than standards\n🎀 Attitude with elegance\n💖 Girls just wanna have fun",
+      "language": "English",
+      "categories": ["Girls", "Attitude", "Stylish"],
+      "keywords": ["glam", "Heels", "Attitude", "elegance", "fun"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_007",
+      "text": "🌟 Living proof that strong is beautiful\n💪 Building my empire one idea at a time\n🎶 Vibing to my own playlist",
+      "language": "English",
+      "categories": ["Girls", "Inspirational", "Music"],
+      "keywords": ["strong", "beautiful", "empire", "idea", "Vibing", "playlist"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_008",
+      "text": "🥰 Blissfully unpredictable\n🌻 Collecting memories, not things\n🦋 Living lightly, loving deeply",
+      "language": "English",
+      "categories": ["Girls", "Love"],
+      "keywords": ["unpredictable", "memories", "Living lightly", "loving deeply"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_009",
+      "text": "🌸 Heart full of gratitude\n✨ Eyes full of hope\n🙃 Silly, sassy, a little bit classy",
+      "language": "English",
+      "categories": ["Girls", "Classy", "Interesting"],
+      "keywords": ["Heart", "gratitude", "Eyes", "hope", "Silly", "sassy", "classy"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_010",
+      "text": "❤️ Love like you’ve never been hurt\n💫 Spread kindness everywhere\n🥂 Self-love is true love",
+      "language": "English",
+      "categories": ["Girls", "Love", "Inspirational"],
+      "keywords": ["Love", "hurt", "kindness", "Self-love", "true love"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_011",
+      "text": "💄 Sassy, classy with a touch of badassy\n🚀 Ambitious girl with lazy day dreams\n🌻 Growing through every season",
+      "language": "English",
+      "categories": ["Girls", "Classy", "Dreams", "Interesting"],
+      "keywords": ["Sassy", "classy", "badassy", "Ambitious", "lazy day dreams", "Growing", "season"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_012",
+      "text": "🎤 Singing my story\n📝 Writing my dreams\n💃 Dancing through life\n🌈 Rainbow chaser",
+      "language": "English",
+      "categories": ["Girls", "Dreams", "Artist"],
+      "keywords": ["Singing", "story", "Writing", "dreams", "Dancing", "life", "Rainbow chaser"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_013",
+      "text": "💕 Sweet as honey, tough as nails\n🌙 Whimsical soul in a busy world\n💛 Here to inspire and be inspired",
+      "language": "English",
+      "categories": ["Girls", "Inspirational"],
+      "keywords": ["Sweet", "honey", "tough as nails", "Whimsical", "soul", "inspire", "inspired"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_014",
+      "text": "🌟 Sparking up every room I’m in\n💅 Made of sugar, sass & a little magic\n🥰 Unapologetically me",
+      "language": "English",
+      "categories": ["Girls", "Attitude", "Unique"],
+      "keywords": ["Sparking", "sugar", "sass", "magic", "Unapologetically me"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_015",
+      "text": "👑 Princess with goals\n💪 Strong is my pretty\n🧁 More sprinkles, less drama\n❤️ Simple girl, complicated mind",
+      "language": "English",
+      "categories": ["Girls", "Simple", "Interesting"],
+      "keywords": ["Princess", "goals", "Strong", "pretty", "sprinkles", "drama", "Simple girl", "complicated mind"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_016",
+      "text": "🌻 Soul full of sunshine and wildflowers\n🎈 Up in the clouds, feet on the ground\n✨ All about the little things",
+      "language": "English",
+      "categories": ["Girls", "Dreams", "Simple"],
+      "keywords": ["Soul", "sunshine", "wildflowers", "clouds", "feet on the ground", "little things"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_017",
+      "text": "🍰 Sweet on the inside\n💋 Fierce on the outside\n🌸 Soft heart, steel spirit\n💕 Chocolate for breakfast kinda girl",
+      "language": "English",
+      "categories": ["Girls", "Foodie", "Interesting", "Love"],
+      "keywords": ["Sweet", "Fierce", "Soft heart", "steel spirit", "Chocolate", "breakfast"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_018",
+      "text": "✨ Shine bright even on your darkest days\n🌌 Making wishes, breaking limits",
+      "language": "English",
+      "categories": ["Girls", "Inspirational", "Motivational", "Dreams"],
+      "keywords": ["Shine bright", "darkest days", "wishes", "breaking limits"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_019",
+      "text": "👗 Fashion is my passion\n🌸 Little black dress or jeans, I own it\n💃 Cute on purpose\n💕 Style boss",
+      "language": "English",
+      "categories": ["Girls", "Stylish", "Impressive"],
+      "keywords": ["Fashion", "passion", "black dress", "jeans", "Cute", "Style boss"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_020",
+      "text": "🌼 Collecting beautiful moments\n⚡ Storm in her soul, peace in her heart\n💍 Dreaming of big things",
+      "language": "English",
+      "categories": ["Girls", "Dreams", "Inspirational"],
+      "keywords": ["Collecting", "beautiful moments", "Storm", "soul", "peace", "heart", "Dreaming", "big things"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_021",
+      "text": "😇 Angel vibes with a wild side\n🎶 Music is my love language\n💬 Finding poetry in the ordinary",
+      "language": "English",
+      "categories": ["Girls", "Music", "Love", "Interesting"],
+      "keywords": ["Angel vibes", "wild side", "Music", "love language", "poetry", "ordinary"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_022",
+      "text": "🌸 Flower child with a rock & roll heart\n🤍 Big dreamer, even bigger doer\n🌺 Sprinkle kindness like confetti",
+      "language": "English",
+      "categories": ["Girls", "Dreams", "Inspirational"],
+      "keywords": ["Flower child", "rock & roll heart", "Big dreamer", "doer", "kindness", "confetti"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_023",
+      "text": "🧁 Life’s short, eat dessert first\n🎀 Wearing my confidence as lipstick\n💎 Breaking stereotypes daily",
+      "language": "English",
+      "categories": ["Girls", "Inspirational", "Attitude"],
+      "keywords": ["Life’s short", "dessert", "confidence", "lipstick", "Breaking stereotypes"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_024",
+      "text": "💜 Born to stand out\n🌈 Rainbow soul in a grey world\n🦋 Not afraid of new beginnings",
+      "language": "English",
+      "categories": ["Girls", "Unique", "Inspirational"],
+      "keywords": ["Born to stand out", "Rainbow soul", "grey world", "new beginnings"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_025",
+      "text": "🌊 Ocean lover\n⭐ Collecting sunsets and moonlight\n❤️ Heart that loves to travel",
+      "language": "English",
+      "categories": ["Girls", "Travel", "Love"],
+      "keywords": ["Ocean lover", "Collecting", "sunsets", "moonlight", "Heart", "loves to travel"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_026",
+      "text": "🌟 Wild spirit, soft heart\n💐 Spreading joy wherever I go\n🌙 Moon phases, changing moods",
+      "language": "English",
+      "categories": ["Girls", "Interesting", "Simple"],
+      "keywords": ["Wild spirit", "soft heart", "Spreading joy", "Moon phases", "changing moods"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_027",
+      "text": "🥂 Smiling at my own reflection\n✨ Own heroine, own story\n💖 Creating my own happy ending",
+      "language": "English",
+      "categories": ["Girls", "Inspirational", "Motivational"],
+      "keywords": ["Smiling", "reflection", "heroine", "story", "happy ending"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_028",
+      "text": "🍦 Sweet but savage\n🌸 Playful, witty, cheerful\n🦄 More magic, less muggle",
+      "language": "English",
+      "categories": ["Girls", "Attitude", "Unique"],
+      "keywords": ["Sweet", "savage", "Playful", "witty", "cheerful", "magic", "muggle"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_029",
+      "text": "👑 Wear your invisible crown\n🌟 Ambitions as high as the sky\n🎀 Kind to myself first",
+      "language": "English",
+      "categories": ["Girls", "Motivational", "Inspirational"],
+      "keywords": ["invisible crown", "Ambitions", "sky", "Kind to myself"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_030",
+      "text": "🌸 Rosy cheeks, rosy outlook\n🐾 Cat mom, coffee enthusiast\n🎇 Dream, believe, achieve",
+      "language": "English",
+      "categories": ["Girls", "Dreams"],
+      "keywords": ["Rosy cheeks", "rosy outlook", "Cat mom", "coffee enthusiast", "Dream", "believe", "achieve"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_031",
+      "text": "🧚‍♂️ Fairy tales & late night tales\n☕ Chai and self-love\n🌸 Sometimes fierce, always kind",
+      "language": "English",
+      "categories": ["Girls", "Love", "Simple"],
+      "keywords": ["Fairy tales", "late night tales", "Chai", "self-love", "fierce", "kind"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_032",
+      "text": "👒 Wearing my worth with pride\n🕊️ Bringing peace by being real\n🎨 Every day is a new canvas",
+      "language": "English",
+      "categories": ["Girls", "Inspirational", "Motivational", "Artist"],
+      "keywords": ["Worth", "pride", "Peace", "real", "new canvas"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_033",
+      "text": "🧁 A little cupcake in a world of muffins\n💅 Pretty mind, messy bun, big goals",
+      "language": "English",
+      "categories": ["Girls", "Unique"],
+      "keywords": ["cupcake", "muffins", "Pretty mind", "messy bun", "big goals"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_034",
+      "text": "✨ Glitter in my veins\n💡 Ideas brighter than my highlight\n🌼 Smile dealer",
+      "language": "English",
+      "categories": ["Girls", "Impressive", "Interesting"],
+      "keywords": ["Glitter", "veins", "Ideas", "highlight", "Smile dealer"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_035",
+      "text": "💕 Cup of positive energy\n🦋 Transformation in process\n💖 Soft on the outside, fire within",
+      "language": "English",
+      "categories": ["Girls", "Motivational", "Inspirational"],
+      "keywords": ["positive energy", "Transformation", "Soft", "fire within"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_036",
+      "text": "👩‍🎨 Doodling dreams\n🎶 Humming my hustle\n📚 Writing my journey",
+      "language": "English",
+      "categories": ["Girls", "Dreams", "Music", "Artist"],
+      "keywords": ["Doodling dreams", "Humming", "hustle", "Writing", "journey"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_037",
+      "text": "🌈 Colorful mind\n🦄 Living in pastel daydreams\n✨ Sunlight in my soul",
+      "language": "English",
+      "categories": ["Girls", "Dreams", "Unique"],
+      "keywords": ["Colorful mind", "pastel daydreams", "Sunlight", "soul"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_038",
+      "text": "👗 Born to wear confidence\n💅 Well-behaved women rarely make history",
+      "language": "English",
+      "categories": ["Girls", "Attitude", "Motivational", "Inspirational"],
+      "keywords": ["confidence", "Well-behaved women", "make history"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_039",
+      "text": "🎈 Floating between confidence and chaos\n🌸 Charming, disarming, no warning",
+      "language": "English",
+      "categories": ["Girls", "Attitude", "Interesting"],
+      "keywords": ["confidence", "chaos", "Charming", "disarming"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_040",
+      "text": "🍩 Donut worry, be happy\n💛 Feisty but sweet\n🌸 Slaying life in pink boots",
+      "language": "English",
+      "categories": ["Girls", "Funny", "Attitude"],
+      "keywords": ["Donut worry", "happy", "Feisty", "sweet", "Slaying", "pink boots"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_041",
+      "text": "👑 Self-made princess\n💃 Dancing on my fears\n🌸 Living my best today",
+      "language": "English",
+      "categories": ["Girls", "Motivational", "Inspirational"],
+      "keywords": ["Self-made princess", "Dancing", "fears", "Living my best"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_042",
+      "text": "🌙 Late night thoughts, early morning hustle\n⭐ Wishing on every star\n🌸 Quiet but strong, always",
+      "language": "English",
+      "categories": ["Girls", "Dreams", "Motivational", "Inspirational"],
+      "keywords": ["Late night thoughts", "early morning hustle", "Wishing", "star", "Quiet", "strong"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_043",
+      "text": "🦋 Butterfly effect: one smile at a time\n🌺 Living slower, dreaming bigger",
+      "language": "English",
+      "categories": ["Girls", "Inspirational", "Dreams"],
+      "keywords": ["Butterfly effect", "smile", "Living slower", "dreaming bigger"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_044",
+      "text": "🎀 Cute but capable\n🌸 Not your average story\n🧁 Sprinkling positivity everywhere",
+      "language": "English",
+      "categories": ["Girls", "Unique", "Inspirational"],
+      "keywords": ["Cute", "capable", "Not your average story", "Sprinkling positivity"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_045",
+      "text": "💄 Rose gold dreams\n🌸 Pink skies, high hopes\n🦄 Collector of pretty moments",
+      "language": "English",
+      "categories": ["Girls", "Dreams"],
+      "keywords": ["Rose gold dreams", "Pink skies", "high hopes", "Collector", "pretty moments"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_046",
+      "text": "🧚‍♀️ Sprinkle a little magic everywhere\n🌸 Authentically awkward\n😂 Not here for perfection",
+      "language": "English",
+      "categories": ["Girls", "Funny", "Unique"],
+      "keywords": ["Sprinkle", "magic", "Authentically awkward", "perfection"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_047",
+      "text": "🌷 Wear flowers in your hair, sunshine in your heart\n❤️ Genuine is my favorite filter",
+      "language": "English",
+      "categories": ["Girls", "Simple", "Love"],
+      "keywords": ["flowers", "hair", "sunshine", "heart", "Genuine", "filter"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_048",
+      "text": "🌈 Living colorful\n🧁 Sugar, spice & a little advice\n💃 Dancing with the rhythm of today",
+      "language": "English",
+      "categories": ["Girls", "Cool", "Stylish"],
+      "keywords": ["Living colorful", "Sugar", "spice", "advice", "Dancing", "rhythm"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_049",
+      "text": "👑 Attitude like a boss\n✨ Always grateful, never hateful\n💜 Drama free zone",
+      "language": "English",
+      "categories": ["Girls", "Attitude", "Motivational"],
+      "keywords": ["Attitude", "boss", "grateful", "hateful", "Drama free zone"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_050",
+      "text": "🥰 Living with no regrets\n🎀 Bright eyes, bold mind\n🌸 Writing new chapters",
+      "language": "English",
+      "categories": ["Girls", "Motivational", "Inspirational"],
+      "keywords": ["Living with no regrets", "Bright eyes", "bold mind", "Writing new chapters"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_051",
+      "text": "🌼 Just a girl growing through what she goes through\n💐 Life isn’t perfect but my hair is",
+      "language": "English",
+      "categories": ["Girls", "Simple", "Funny"],
+      "keywords": ["growing", "goes through", "Life isn’t perfect", "hair"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_052",
+      "text": "🥂 Friday nights & fairy lights\n🍦 More sprinkles please\n😇 Loved by a few, envied by many",
+      "language": "English",
+      "categories": ["Girls", "Interesting"],
+      "keywords": ["Friday nights", "fairy lights", "sprinkles", "Loved", "envied"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_053",
+      "text": "✨ Sparkle like you mean it\n🦋 Chasing butterflies, not boys",
+      "language": "English",
+      "categories": ["Girls", "Motivational"],
+      "keywords": ["Sparkle", "butterflies", "boys"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_054",
+      "text": "🎈 Floating above the haters\n🌸 Mindset: unstoppable\n✨ Spontaneous soul, deliberate dreams",
+      "language": "English",
+      "categories": ["Girls", "Attitude", "Dreams", "Motivational", "Inspirational"],
+      "keywords": ["Floating", "haters", "Mindset", "unstoppable", "Spontaneous soul", "deliberate dreams"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_055",
+      "text": "🌸 Sweet inside, savage outside\n🦄 Head in the clouds, lipstick on",
+      "language": "English",
+      "categories": ["Girls", "Attitude", "Stylish"],
+      "keywords": ["Sweet", "savage", "Head in the clouds", "lipstick"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_056",
+      "text": "💖 Big heart, big dreams\n✨ Making happy a habit\n🌷 My smile is my superpower",
+      "language": "English",
+      "categories": ["Girls", "Dreams", "Inspirational"],
+      "keywords": ["Big heart", "big dreams", "Making happy", "habit", "smile", "superpower"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_057",
+      "text": "🛍️ Shopping as cardio\n💄 Red lips, real talk\n🎀 Sassy, still classy",
+      "language": "English",
+      "categories": ["Girls", "Classy", "Stylish"],
+      "keywords": ["Shopping", "cardio", "Red lips", "real talk", "Sassy", "classy"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_058",
+      "text": "🌚 Night owl, morning slayer\n🌸 Makeup enthusiast\n🦋 Glowing up, growing up",
+      "language": "English",
+      "categories": ["Girls", "Interesting"],
+      "keywords": ["Night owl", "morning slayer", "Makeup enthusiast", "Glowing up", "growing up"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_059",
+      "text": "🍫 Chocolate solves everything\n🌸 Turning self-doubt into self-love",
+      "language": "English",
+      "categories": ["Girls", "Love", "Motivational"],
+      "keywords": ["Chocolate", "solves everything", "self-doubt", "self-love"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_060",
+      "text": "🎶 My playlist speaks my mind\n🌈 10% luck, 90% hustle\n👑 Determined to rise",
+      "language": "English",
+      "categories": ["Girls", "Music", "Motivational", "Inspirational"],
+      "keywords": ["playlist", "speaks my mind", "luck", "hustle", "Determined to rise"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_061",
+      "text": "🌻 Living proof that girls run the world\n🌙 Dreaming bigger each night",
+      "language": "English",
+      "categories": ["Girls", "Dreams", "Motivational", "Inspirational"],
+      "keywords": ["Living proof", "girls run the world", "Dreaming bigger"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_062",
+      "text": "🦄 Unicorn attitude, butterfly style\n🌸 Creating good vibes daily",
+      "language": "English",
+      "categories": ["Girls", "Attitude", "Stylish", "Unique"],
+      "keywords": ["Unicorn attitude", "butterfly style", "Creating good vibes"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_063",
+      "text": "👑 Strong girls shine the brightest\n🌸 Not everyone likes me, but not everyone matters",
+      "language": "English",
+      "categories": ["Girls", "Attitude", "Motivational"],
+      "keywords": ["Strong girls", "shine brightest", "likes me", "matters"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_064",
+      "text": "🚀 Aiming for the stars\n🌸 Petals never settle",
+      "language": "English",
+      "categories": ["Girls", "Motivational", "Inspirational", "Dreams"],
+      "keywords": ["Aiming for the stars", "Petals", "settle"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_065",
+      "text": "🌈 Messy bun & getting stuff done\n🧁 Sweet with a spicy comeback",
+      "language": "English",
+      "categories": ["Girls", "Cool", "Funny"],
+      "keywords": ["Messy bun", "getting stuff done", "Sweet", "spicy comeback"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_066",
+      "text": "🍰 You can’t break a girl made of cupcakes & courage",
+      "language": "English",
+      "categories": ["Girls", "Inspirational", "Motivational"],
+      "keywords": ["break", "cupcakes", "courage"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_067",
+      "text": "👸 Plot twist: I win",
+      "language": "English",
+      "categories": ["Girls", "Attitude"],
+      "keywords": ["Plot twist", "I win"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_068",
+      "text": "🦋 Peace, love & messy hair",
+      "language": "English",
+      "categories": ["Girls", "Love", "Simple"],
+      "keywords": ["Peace", "love", "messy hair"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_069",
+      "text": "🌟 Confidence on fleek\n🌸 More smiles, less worries\n🌺 Kindness is my aesthetic",
+      "language": "English",
+      "categories": ["Girls", "Attitude", "Aesthetic"],
+      "keywords": ["Confidence", "fleek", "smiles", "worries", "Kindness", "aesthetic"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_070",
+      "text": "💖 Born to inspire, paid to slay",
+      "language": "English",
+      "categories": ["Girls", "Inspirational", "Attitude"],
+      "keywords": ["Born to inspire", "paid to slay"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_071",
+      "text": "🌼 Just here to brighten your feed",
+      "language": "English",
+      "categories": ["Girls", "Simple"],
+      "keywords": ["brighten", "feed"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_072",
+      "text": "🌙 Dear stress, let’s break up\n😂 Always laughing, never basic",
+      "language": "English",
+      "categories": ["Girls", "Funny", "Attitude"],
+      "keywords": ["stress", "break up", "laughing", "basic"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_073",
+      "text": "🌸 Girly but gritty\n🎀 Doing it for my future self",
+      "language": "English",
+      "categories": ["Girls", "Motivational"],
+      "keywords": ["Girly", "gritty", "future self"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_074",
+      "text": "👑 Attitude wrapped in a pretty smile",
+      "language": "English",
+      "categories": ["Girls", "Attitude"],
+      "keywords": ["Attitude", "pretty smile"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_075",
+      "text": "🐾 Dog mom energy\n🌸 Beautiful chaos in a tiny frame",
+      "language": "English",
+      "categories": ["Girls", "Interesting"],
+      "keywords": ["Dog mom", "energy", "Beautiful chaos", "tiny frame"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_076",
+      "text": "🦋 Breaking hearts and barriers\n✨ Beauty with a backbone",
+      "language": "English",
+      "categories": ["Girls", "Attitude", "Inspirational"],
+      "keywords": ["Breaking hearts", "barriers", "Beauty", "backbone"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_077",
+      "text": "🌼 Collector of pink skies",
+      "language": "English",
+      "categories": ["Girls", "Simple"],
+      "keywords": ["Collector", "pink skies"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_078",
+      "text": "👑 Crowned in confidence\n🌸 Playful but stubborn",
+      "language": "English",
+      "categories": ["Girls", "Attitude"],
+      "keywords": ["Crowned", "confidence", "Playful", "stubborn"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_079",
+      "text": "🍦 Sweet tooth, sweet soul\n✨ Chasing big city dreams",
+      "language": "English",
+      "categories": ["Girls", "Dreams"],
+      "keywords": ["Sweet tooth", "sweet soul", "Chasing", "big city dreams"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_080",
+      "text": "🌊 Saltwater soul\n🌸 Long walks & longer talks",
+      "language": "English",
+      "categories": ["Girls", "Simple"],
+      "keywords": ["Saltwater soul", "Long walks", "longer talks"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_081",
+      "text": "✨ Never average, always awesome",
+      "language": "English",
+      "categories": ["Girls", "Unique", "Attitude"],
+      "keywords": ["Never average", "always awesome"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_082",
+      "text": "🦄 Daydreaming out loud",
+      "language": "English",
+      "categories": ["Girls", "Dreams"],
+      "keywords": ["Daydreaming", "out loud"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_083",
+      "text": "💖 Girly, geeky, genuine",
+      "language": "English",
+      "categories": ["Girls", "Simple"],
+      "keywords": ["Girly", "geeky", "genuine"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_084",
+      "text": "🌸 Good girl with bad habits",
+      "language": "English",
+      "categories": ["Girls", "Funny", "Interesting"],
+      "keywords": ["Good girl", "bad habits"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_085",
+      "text": "🎀 Pink is my attitude",
+      "language": "English",
+      "categories": ["Girls", "Attitude", "Stylish"],
+      "keywords": ["Pink", "attitude"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_086",
+      "text": "💅 Goals: be real, be me",
+      "language": "English",
+      "categories": ["Girls", "Motivational", "Inspirational"],
+      "keywords": ["Goals", "be real", "be me"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_087",
+      "text": "🦋 Floating through life, wings out",
+      "language": "English",
+      "categories": ["Girls", "Simple"],
+      "keywords": ["Floating", "life", "wings out"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_088",
+      "text": "🌈 Chillin’ in chill vibes",
+      "language": "English",
+      "categories": ["Girls", "Cool"],
+      "keywords": ["Chillin’", "chill vibes"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_089",
+      "text": "👒 Making happy look easy",
+      "language": "English",
+      "categories": ["Girls", "Simple"],
+      "keywords": ["Making happy", "easy"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_090",
+      "text": "🌻 Confidence is cute\n🌼 Bloom wild, bloom free",
+      "language": "English",
+      "categories": ["Girls", "Attitude", "Motivational"],
+      "keywords": ["Confidence", "cute", "Bloom wild", "bloom free"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_091",
+      "text": "❄️ Cold hands, warm heart\n🦋 Would trade cake for happiness",
+      "language": "English",
+      "categories": ["Girls", "Simple"],
+      "keywords": ["Cold hands", "warm heart", "trade cake", "happiness"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_092",
+      "text": "🌸 Not your ordinary girl\n💗 Extra in the best ways",
+      "language": "English",
+      "categories": ["Girls", "Unique"],
+      "keywords": ["Not your ordinary girl", "Extra"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_093",
+      "text": "🌈 Life’s a party, dress like it",
+      "language": "English",
+      "categories": ["Girls", "Stylish"],
+      "keywords": ["Life’s a party", "dress"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_094",
+      "text": "👑 Girl boss on duty",
+      "language": "English",
+      "categories": ["Girls", "Attitude", "Professional"],
+      "keywords": ["Girl boss", "on duty"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_095",
+      "text": "🦄 Weirdly wonderful",
+      "language": "English",
+      "categories": ["Girls", "Unique"],
+      "keywords": ["Weirdly wonderful"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_096",
+      "text": "🌸 My vibe, my tribe",
+      "language": "English",
+      "categories": ["Girls", "Cool"],
+      "keywords": ["My vibe", "my tribe"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_097",
+      "text": "🌼 Me, myself & a little sass",
+      "language": "English",
+      "categories": ["Girls", "Attitude"],
+      "keywords": ["Me", "myself", "sass"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_098",
+      "text": "🌸 Eat, pray, sparkle",
+      "language": "English",
+      "categories": ["Girls", "Simple"],
+      "keywords": ["Eat", "pray", "sparkle"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_099",
+      "text": "💖 On a journey to my best self",
+      "language": "English",
+      "categories": ["Girls", "Motivational", "Inspirational"],
+      "keywords": ["journey", "best self"],
+      "gender": "Girl"
+    },
+    {
+      "id": "girl_bio_100",
+      "text": "🌟 Living my limitless story",
+      "language": "English",
+      "categories": ["Girls", "Motivational", "Inspirational", "Dreams"],
+      "keywords": ["Living", "limitless story"],
+      "gender": "Girl"
+    }
+  ]
+}

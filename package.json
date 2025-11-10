@@ -1,0 +1,37 @@
+{
+  "name": "instagram-bio-generator",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "build:mpa": "vite build",
+    "serve": "vite preview",
+    "serve:mpa": "vite preview",
+    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "seo:check": "node scripts/seo-check.cjs",
+    "sitemap:generate": "node scripts/generate-sitemap.cjs"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "fs-extra": "^11.3.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^7.7.1",
+    "to-ico": "^1.1.5"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.43",
+    "@types/react-dom": "^18.2.17",
+    "@vitejs/plugin-react": "^4.2.1",
+    "eslint": "^8.55.0",
+    "eslint-plugin-react": "^7.33.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.5",
+    "image-size": "^2.0.2",
+    "jimp": "^1.6.0",
+    "sharp-cli": "^5.2.0",
+    "vite": "^5.0.8"
+  }
+}

@@ -1,0 +1,911 @@
+.ig-fonts-container {
+  width: 100%;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+
+.ig-fonts-generator-widget {
+  width: 100%;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: var(--color-surface);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-sm);
+  border: 1px solid var(--color-border);
+  box-sizing: border-box;
+}
+
+.dark-theme .ig-fonts-generator-widget {
+  background-color: var(--color-charcoal-800);
+  border-color: var(--color-border);
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.3), 0 2px 4px -1px rgba(0, 0, 0, 0.1);
+}
+
+.ig-fonts-header {
+  text-align: center;
+  margin-bottom: 30px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.ig-fonts-header h2 {
+  font-size: 2rem;
+  margin-bottom: 10px;
+  color: var(--color-text);
+}
+
+/* Night theme styling for header h2 */
+.dark-theme .ig-fonts-header h2 {
+  color: var(--color-white);
+}
+
+.ig-fonts-header p {
+  font-size: 16px; /* Normal text size as requested */
+  color: var(--color-text-secondary);
+  margin: 0;
+  text-align: center;
+}
+
+/* Night theme styling for header p */
+.dark-theme .ig-fonts-header p {
+  color: var(--color-white);
+}
+
+.ig-fonts-input-section {
+  width: 100%;
+  margin: 0 auto 40px;
+  background-color: var(--color-surface);
+  padding: 30px;
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-sm);
+  border: 1px solid var(--color-border);
+  box-sizing: border-box;
+}
+
+/* Improve night theme styling */
+.dark-theme .ig-fonts-input-section {
+  background-color: var(--color-charcoal-800);
+  border-color: var(--color-border);
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.3), 0 2px 4px -1px rgba(0, 0, 0, 0.1);
+}
+
+.ig-fonts-textarea {
+  width: 100%;
+  min-height: 120px;
+  padding: 15px;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  font-size: 1rem;
+  font-family: var(--font-family-base);
+  background-color: var(--color-surface);
+  color: var(--color-text);
+  resize: vertical;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+
+/* Improve night theme styling for textarea */
+.dark-theme .ig-fonts-textarea {
+  background-color: var(--color-charcoal-700);
+  border-color: var(--color-border);
+  color: var(--color-white);
+}
+
+.ig-fonts-textarea:focus {
+  outline: none;
+  border-color: var(--color-primary);
+  box-shadow: var(--focus-ring);
+}
+
+/* Improve night theme focus styling */
+.dark-theme .ig-fonts-textarea:focus {
+  border-color: var(--color-teal-400);
+  box-shadow: 0 0 0 3px rgba(45, 166, 178, 0.4);
+}
+
+.ig-fonts-textarea::placeholder {
+  color: var(--color-text-secondary);
+}
+
+/* Improve night theme placeholder styling */
+.dark-theme .ig-fonts-textarea::placeholder {
+  color: var(--color-gray-300);
+}
+
+.ig-fonts-input-info {
+  text-align: right;
+  font-size: 0.875rem;
+  color: var(--color-text-secondary);
+  margin-bottom: 15px;
+}
+
+.ig-fonts-generate-btn {
+  width: 100%;
+  padding: 12px 20px;
+  background-color: var(--color-primary);
+  color: var(--color-btn-primary-text);
+  border: none;
+  border-radius: var(--radius-md);
+  font-size: 1rem;
+  font-weight: var(--font-weight-medium);
+  cursor: pointer;
+  transition: background-color var(--duration-normal) var(--ease-standard);
+}
+
+/* Improve night theme button styling */
+.dark-theme .ig-fonts-generate-btn {
+  background-color: var(--color-teal-500);
+  color: var(--color-cream-50);
+}
+
+.ig-fonts-generate-btn:hover:not(:disabled) {
+  background-color: var(--color-primary-hover);
+}
+
+/* Improve night theme button hover styling */
+.dark-theme .ig-fonts-generate-btn:hover:not(:disabled) {
+  background-color: var(--color-teal-600);
+}
+
+.ig-fonts-generate-btn:disabled {
+  background-color: var(--color-secondary);
+  cursor: not-allowed;
+}
+
+.ig-fonts-results-section {
+  margin-top: 30px;
+}
+
+.ig-fonts-results-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid var(--color-border);
+}
+
+/* Improve night theme results header styling */
+.dark-theme .ig-fonts-results-header {
+  border-bottom: 1px solid var(--color-border);
+}
+
+.ig-fonts-results-header h3 {
+  font-size: 20px;
+  margin: 0;
+  color: var(--color-text);
+}
+
+/* Improve night theme results header h3 styling */
+.dark-theme .ig-fonts-results-header h3 {
+  color: var(--color-white);
+}
+
+.ig-fonts-results-header span {
+  font-size: 16px; /* Normal text size as requested */
+  color: var(--color-text-secondary);
+}
+
+/* Improve night theme results header span styling */
+.dark-theme .ig-fonts-results-header span {
+  color: var(--color-gray-300);
+}
+
+.ig-fonts-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 25px;
+  margin-bottom: 30px;
+  padding: 0 20px;
+  box-sizing: border-box;
+  /* Add padding to prevent cards from touching edges */
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.ig-fonts-card {
+  background-color: var(--color-surface);
+  border: 1px solid var(--color-card-border);
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  transition: transform var(--duration-fast) var(--ease-standard), 
+              box-shadow var(--duration-fast) var(--ease-standard);
+}
+
+/* Improve night theme card styling */
+.dark-theme .ig-fonts-card {
+  background-color: var(--color-charcoal-800);
+  border-color: var(--color-border);
+}
+
+.ig-fonts-card:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-md);
+}
+
+/* Improve night theme card hover styling */
+.dark-theme .ig-fonts-card:hover {
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.3), 0 4px 6px -2px rgba(0, 0, 0, 0.1);
+}
+
+.ig-fonts-card-content {
+  padding: 30px 20px;
+  min-height: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.ig-fonts-generated-text {
+  font-size: 1.25rem;
+  text-align: center;
+  word-break: break-all;
+  line-height: 1.4;
+  /* Ensure proper text color in both light and dark modes */
+  color: var(--color-text);
+  /* Prevent horizontal overflow */
+  overflow-x: hidden;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  max-width: 100%;
+  /* Additional styles to ensure text fits properly */
+  hyphens: auto;
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+  overflow-wrap: break-word;
+}
+
+/* Ensure fancy text is visible in dark mode */
+.dark-theme .ig-fonts-generated-text {
+  color: var(--color-text);
+}
+
+/* Ensure fancy text is visible in light mode */
+.light-theme .ig-fonts-generated-text {
+  color: var(--color-text);
+}
+
+.ig-fonts-copy-btn {
+  width: 100%;
+  padding: 12px 15px;
+  background-color: transparent;
+  border: none;
+  border-top: 1px solid var(--color-card-border);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  font-size: 16px; /* Normal text size as requested */
+  font-weight: var(--font-weight-medium);
+  color: var(--color-primary);
+  cursor: pointer;
+  transition: background-color var(--duration-fast) var(--ease-standard);
+}
+
+/* Improve night theme copy button styling */
+.dark-theme .ig-fonts-copy-btn {
+  border-top: 1px solid var(--color-border);
+  color: var(--color-teal-400);
+}
+
+.ig-fonts-copy-btn:hover {
+  background-color: rgba(var(--color-teal-500-rgb), 0.05);
+}
+
+/* Improve night theme copy button hover styling */
+.dark-theme .ig-fonts-copy-btn:hover {
+  background-color: rgba(var(--color-teal-500-rgb), 0.1);
+}
+
+/* Pagination styles */
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  flex-wrap: wrap;
+}
+
+.pagination-btn {
+  padding: 8px 12px;
+  background-color: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  font-size: 0.875rem;
+  color: var(--color-text);
+  cursor: pointer;
+  transition: all var(--duration-fast) var(--ease-standard);
+  min-width: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.dark-theme .pagination-btn {
+  background-color: var(--color-charcoal-800);
+  border-color: var(--color-border);
+  color: var(--color-white);
+}
+
+.pagination-btn:hover:not(:disabled):not(.active) {
+  background-color: var(--color-secondary-hover);
+  border-color: var(--color-secondary-hover);
+}
+
+.dark-theme .pagination-btn:hover:not(:disabled):not(.active) {
+  background-color: var(--color-charcoal-700);
+  border-color: var(--color-gray-400);
+}
+
+.pagination-btn.active {
+  background-color: var(--color-primary);
+  color: var(--color-btn-primary-text);
+  border-color: var(--color-primary);
+}
+
+.dark-theme .pagination-btn.active {
+  background-color: var(--color-teal-500);
+  color: var(--color-cream-50);
+  border-color: var(--color-teal-500);
+}
+
+.pagination-btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.pagination-ellipsis {
+  padding: 8px 4px;
+  color: var(--color-text-secondary);
+}
+
+.dark-theme .pagination-ellipsis {
+  color: var(--color-gray-300);
+}
+
+/* Font card styles */
+.font-card {
+  perspective: 1000px;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+  min-height: 240px;
+  width: 100%;
+}
+
+.font-card:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-md);
+}
+
+.font-card .card-front {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: var(--space-16);
+  background-color: var(--card-bg);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-sm);
+  overflow: hidden;
+  backface-visibility: hidden;
+}
+
+.dark-theme .font-card .card-front {
+  background-color: var(--card-bg);
+  border-color: var(--border-color);
+}
+
+.font-card .bio-text {
+  font-size: 16px; /* Normal text size as requested */
+  line-height: 1.6;
+  color: var(--text-primary);
+  margin-bottom: var(--space-12);
+  flex: 1;
+  overflow-y: auto;
+  word-wrap: break-word;
+  white-space: pre-wrap;
+  word-break: break-word;
+  overflow-x: hidden;
+  max-width: 100%;
+  /* Additional styles to ensure text fits properly */
+  hyphens: auto;
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+  overflow-wrap: break-word;
+}
+
+.font-card .font-style-name {
+  font-size: 16px; /* Normal text size as requested */
+  font-weight: 600;
+  color: var(--color-text-secondary);
+  margin-bottom: var(--space-8);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  text-align: center;
+}
+
+.dark-theme .font-card .font-style-name {
+  color: var(--color-gray-300);
+}
+
+/* Flip card styles */
+.bio-card {
+  perspective: 1000px;
+  height: 280px;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+  width: 100%;
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+}
+
+.bio-card:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-md);
+}
+
+.card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: left;
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
+}
+
+.bio-card.flipped .card-inner {
+  transform: rotateY(180deg);
+}
+
+.card-front, .card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: var(--space-16);
+  background: linear-gradient(135deg, rgba(245, 133, 41, 0.2), rgba(254, 218, 117, 0.2), rgba(221, 42, 123, 0.2), rgba(129, 52, 175, 0.2), rgba(64, 93, 230, 0.2));
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-sm);
+  overflow: hidden;
+}
+
+.card-back {
+  transform: rotateY(180deg);
+  background: var(--color-white);
+  color: var(--color-text);
+  border-color: var(--color-border);
+  padding: var(--space-6);
+}
+
+.card-back .bio-text {
+  color: var(--color-text);
+  flex: 1;
+  overflow-y: auto;
+  margin-bottom: var(--space-8);
+  /* Ensure text fits properly */
+  word-break: break-word;
+  overflow-wrap: break-word;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+}
+
+/* Instagram Preview Layout on Card Back */
+.instagram-preview {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  background: var(--color-white);
+  border-radius: var(--radius-base);
+  overflow: hidden;
+}
+
+.preview-header {
+  display: flex;
+  gap: var(--space-8);
+  padding: var(--space-6);
+  border-bottom: 1px solid var(--color-gray-200);
+  align-items: center;
+}
+
+.preview-avatar {
+  flex-shrink: 0;
+}
+
+.preview-avatar-image {
+  position: relative;
+  width: 64px;
+  height: 64px;
+}
+
+.preview-pic {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  border: 1px solid var(--color-white);
+  transition: transform 0.3s ease;
+  cursor: pointer;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+
+.preview-pic.flipped {
+  transform: rotateY(180deg);
+}
+
+.profile-initials {
+  position: absolute;
+  z-index: 2;
+}
+
+.preview-story-ring {
+  position: absolute;
+  top: -1px;
+  left: -1px;
+  right: -1px;
+  bottom: -1px;
+  border-radius: 50%;
+  background: linear-gradient(45deg, #feda75, #fa7e1e, #d62976, #962fbf, #4f5bd5);
+  z-index: -1;
+}
+
+.preview-info {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+  margin-left: var(--space-6);
+}
+
+.preview-username {
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--color-text);
+  text-align: center;
+}
+
+.preview-stats {
+  display: flex;
+  gap: var(--space-20);
+  margin-left: var(--space-2);
+}
+
+.preview-stat {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--space-1);
+}
+
+.preview-stat strong {
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: var(--color-text);
+}
+
+.preview-stat {
+  font-size: 0.75rem;
+  color: var(--color-text-secondary);
+}
+
+.preview-edit-btn {
+  background-color: var(--color-gray-100);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-base);
+  padding: var(--space-3) var(--space-6);
+  font-size: 0.625rem;
+  font-weight: 600;
+  color: var(--color-text);
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+  align-self: flex-start;
+  width: fit-content;
+}
+
+.preview-edit-btn:hover {
+  background-color: var(--color-gray-200);
+}
+
+.preview-bio {
+  flex: 1;
+  padding: var(--space-8);
+  font-size: 0.875rem;
+  line-height: 1.5;
+  color: var(--color-text);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  word-wrap: break-word;
+  white-space: pre-wrap;
+  word-break: break-word;
+  overflow-x: hidden;
+  max-width: 100%;
+}
+
+.card-buttons {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: auto;
+  gap: var(--space-8);
+}
+
+.flip-btn {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  padding: var(--space-6) var(--space-8);
+  background-color: var(--color-gray-200);
+  color: var(--color-text);
+  border: none;
+  border-radius: var(--radius-base);
+  font-size: var(--font-size-sm);
+  font-weight: var(--font-weight-medium);
+  cursor: pointer;
+  transition: all 0.2s ease;
+  position: relative;
+  z-index: 10;
+}
+
+.flip-btn:hover {
+  background-color: var(--color-gray-300);
+  transform: translateY(-1px);
+}
+
+.copy-btn {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  padding: var(--space-6) var(--space-8);
+  background-color: var(--color-primary);
+  color: var(--color-white);
+  border: none;
+  border-radius: var(--radius-base);
+  font-size: var(--font-size-sm);
+  font-weight: var(--font-weight-medium);
+  cursor: pointer;
+  transition: all 0.2s ease;
+  position: relative;
+  z-index: 10;
+}
+
+.copy-btn:hover {
+  background-color: var(--color-primary-dark);
+  transform: translateY(-1px);
+}
+
+/* Dark theme adjustments for flip cards */
+.dark-theme .card-front {
+  background: linear-gradient(135deg, rgba(245, 133, 41, 0.2), rgba(254, 218, 117, 0.2), rgba(221, 42, 123, 0.2), rgba(129, 52, 175, 0.2), rgba(64, 93, 230, 0.2));
+  border-color: var(--border-color);
+}
+
+.dark-theme .card-back {
+  background: linear-gradient(135deg, rgba(33, 128, 141, 0.2), rgba(29, 116, 128, 0.2));
+  border-color: var(--color-primary);
+  /* Ensure text fits properly in dark theme */
+  word-break: break-word;
+  overflow-wrap: break-word;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+}
+
+.dark-theme .preview-header {
+  border-bottom: 1px solid var(--color-border);
+}
+
+.dark-theme .preview-username {
+  color: var(--color-white);
+}
+
+.dark-theme .preview-stat strong {
+  color: var(--color-white);
+}
+
+.dark-theme .preview-stat {
+  color: var(--color-gray-300);
+}
+
+.dark-theme .preview-bio {
+  color: var(--color-white);
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+  .ig-fonts-container {
+    padding: 15px;
+  }
+  
+  .ig-fonts-generator-widget {
+    padding: 15px;
+  }
+  
+  .ig-fonts-input-section {
+    padding: 20px;
+  }
+  
+  .ig-fonts-header h2 {
+    font-size: 24px; /* Changed from 22px to 24px as requested */
+  }
+  
+  .ig-fonts-grid {
+    grid-template-columns: 1fr;
+    gap: 15px;
+    padding: 0 15px;
+    /* Ensure proper padding on mobile */
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  
+  .ig-fonts-card-content {
+    min-height: 100px;
+    padding: 25px 15px;
+  }
+  
+  .ig-fonts-generated-text {
+    font-size: 16px; /* Normal text size as requested */
+  }
+  
+  .ig-fonts-pagination {
+    gap: 5px;
+  }
+  
+  .ig-fonts-pagination-btn {
+    padding: 6px 10px;
+    font-size: 16px; /* Normal text size as requested */
+    min-width: 35px;
+  }
+  
+  .bio-card {
+    height: 240px; /* Slightly smaller height on mobile */
+  }
+  
+  .bio-grid {
+    grid-template-columns: 1fr;
+    gap: var(--space-12);
+  }
+  
+  .card-front, .card-back {
+    padding: var(--space-12);
+  }
+  
+  /* Preview elements mobile styles */
+  .preview-username {
+    font-size: 18px;
+  }
+  
+  .preview-stat strong {
+    font-size: 16px; /* Normal text size as requested */
+  }
+  
+  .preview-stat {
+    font-size: 14px;
+  }
+  
+  .preview-edit-btn {
+    font-size: 12px;
+  }
+  
+  .preview-bio {
+    font-size: 16px; /* Normal text size as requested */
+  }
+  
+  /* Table responsive adjustments */
+  .table-container {
+    margin: 15px 0;
+  }
+  
+  .table-container th,
+  .table-container td {
+    padding: 10px 12px;
+    font-size: 16px; /* Normal text size as requested */
+  }
+}
+
+@media (max-width: 480px) {
+  .table-container th,
+  .table-container td {
+    padding: 8px 10px;
+    font-size: 0.8125rem;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+  .ig-fonts-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 1025px) {
+  .ig-fonts-grid {
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  }
+}
+
+/* Table styles for Popular Instagram Fonts and Styles */
+.table-container {
+  overflow-x: auto;
+  margin: 20px 0;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--color-border);
+  box-shadow: var(--shadow-sm);
+}
+
+.table-container table {
+  width: 100%;
+  border-collapse: collapse;
+  min-width: 600px; /* Ensures table scrolls on small screens */
+  background-color: var(--color-surface);
+}
+
+.table-container th,
+.table-container td {
+  padding: 12px 15px;
+  text-align: left;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.table-container th {
+  background-color: var(--color-primary);
+  color: var(--color-btn-primary-text);
+  font-weight: var(--font-weight-semibold);
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 0.5px;
+}
+
+.table-container tr:last-child td {
+  border-bottom: none;
+}
+
+.table-container tr:hover {
+  background-color: var(--color-secondary);
+}
+
+/* Dark theme table styles */
+.dark-theme .table-container table {
+  background-color: var(--color-charcoal-800);
+}
+
+.dark-theme .table-container th {
+  background-color: var(--color-teal-500);
+}
+
+.dark-theme .table-container tr:hover {
+  background-color: var(--color-charcoal-700);
+}
+
+@media (max-width: 480px) {
+  .table-container th,
+  .table-container td {
+    padding: 8px 10px;
+    font-size: 0.8125rem;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+  .ig-fonts-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 1025px) {
+  .ig-fonts-grid {
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  }
+}

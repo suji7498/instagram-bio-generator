@@ -1,0 +1,61 @@
+# Enable rewrite engine
+RewriteEngine On
+
+# Redirect root to home directory
+RewriteRule ^$ /home/ [L]
+
+# Handle search paths - these should load the search page
+# These rules must come BEFORE the general fallback rule
+RewriteRule ^search/([^/]+)/?$ /search/index.html [L]
+RewriteRule ^search/?$ /search/index.html [L]
+
+# Handle specific routes by redirecting to their respective directories
+RewriteRule ^instagram-bio$ /instagram-bio/ [L]
+RewriteRule ^instagram-bio/(.*) /instagram-bio/ [L]
+
+RewriteRule ^results$ /result/ [L]
+RewriteRule ^results/(.*) /result/ [L]
+
+RewriteRule ^contact$ /home/ [L]
+RewriteRule ^contact/(.*) /home/ [L]
+
+# Handle all other non-existent files/directories by redirecting to home
+# This allows React Router to handle client-side routing
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /home/index.html [L]
+
+# Custom error pages
+ErrorDocument 404 /404.html
+
+# Security headers
+<IfModule mod_headers.c>
+    Header set X-Content-Type-Options "nosniff"
+    Header set X-Frame-Options "DENY"
+    Header set X-XSS-Protection "1; mode=block"
+</IfModule>
+
+# Enable compression for text files
+<IfModule mod_deflate.c>
+    AddOutputFilterByType DEFLATE text/plain
+    AddOutputFilterByType DEFLATE text/html
+    AddOutputFilterByType DEFLATE text/xml
+    AddOutputFilterByType DEFLATE text/css
+    AddOutputFilterByType DEFLATE application/xml
+    AddOutputFilterByType DEFLATE application/xhtml+xml
+    AddOutputFilterByType DEFLATE application/rss+xml
+    AddOutputFilterByType DEFLATE application/javascript
+    AddOutputFilterByType DEFLATE application/x-javascript
+</IfModule>
+
+# Cache static assets
+<IfModule mod_expires.c>
+    ExpiresActive On
+    ExpiresByType text/css "access plus 1 year"
+    ExpiresByType application/javascript "access plus 1 year"
+    ExpiresByType image/png "access plus 1 year"
+    ExpiresByType image/jpg "access plus 1 year"
+    ExpiresByType image/jpeg "access plus 1 year"
+    ExpiresByType image/gif "access plus 1 year"
+    ExpiresByType image/svg+xml "access plus 1 year"
+</IfModule>
