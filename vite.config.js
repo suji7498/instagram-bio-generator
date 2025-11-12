@@ -19,7 +19,7 @@ export default defineConfig({
       }
     }
   ],
-  base: './',
+  base: '/instagram-bio-generator/',
   server: {
     port: 3000,
     open: true

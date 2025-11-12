@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://suji7498.github.io/instagram-bio-generator",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -11,7 +12,9 @@
     "serve:mpa": "vite preview",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "seo:check": "node scripts/seo-check.cjs",
-    "sitemap:generate": "node scripts/generate-sitemap.cjs"
+    "sitemap:generate": "node scripts/generate-sitemap.cjs",
+    "deploy-simple": "gh-pages -d . -t -r https://github.com/suji7498/instagram-bio-generator.git -b gh-pages",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "express": "^5.1.0",
@@ -29,6 +32,7 @@
     "eslint-plugin-react": "^7.33.2",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.5",
+    "gh-pages": "^6.3.0",
     "image-size": "^2.0.2",
     "jimp": "^1.6.0",
     "sharp-cli": "^5.2.0",
