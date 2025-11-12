@@ -1,58 +1,161 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <link rel="canonical" href="https://ig-fonts.app/">
-    <link rel="icon" type="image/png" sizes="16x16" href="/instagram-bio-generator/ig-fonts-logo-16x16.png" />
-    <link rel="icon" type="image/png" sizes="32x32" href="/instagram-bio-generator/ig-fonts-logo-32x32.png" />
-    <link rel="icon" type="image/png" sizes="48x48" href="/instagram-bio-generator/ig-fonts-logo-48x48.png" />
-    <link rel="icon" type="image/png" sizes="72x72" href="/instagram-bio-generator/ig-fonts-logo-72x72.png" />
-    <link rel="icon" type="image/png" sizes="96x96" href="/instagram-bio-generator/ig-fonts-logo-96x96.png" />
-    <link rel="icon" type="image/png" sizes="128x128" href="/instagram-bio-generator/ig-fonts-logo-128x128.png" />
-    <link rel="icon" type="image/png" sizes="144x144" href="/instagram-bio-generator/ig-fonts-logo-144x144.png" />
-    <link rel="icon" type="image/png" sizes="152x152" href="/instagram-bio-generator/ig-fonts-logo-152x152.png" />
-    <link rel="icon" type="image/png" sizes="180x180" href="/instagram-bio-generator/ig-fonts-logo-180x180.png" />
-    <link rel="icon" type="image/png" sizes="192x192" href="/instagram-bio-generator/ig-fonts-logo-192x192.png" />
-    <link rel="icon" type="image/png" sizes="384x384" href="/instagram-bio-generator/ig-fonts-logo-384x384.png" />
-    <link rel="icon" type="image/png" sizes="512x512" href="/instagram-bio-generator/ig-fonts-logo-512x512.png" />
-    <link rel="apple-touch-icon" sizes="180x180" href="/instagram-bio-generator/ig-fonts-logo-180x180.png">
-    <link rel="manifest" href="/instagram-bio-generator/site.webmanifest">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="Generate 100+ different font styles for your Instagram bio. Create cool, stylish, and unique fonts with just a few clicks. Free Instagram font generator tool." />
-    <meta name="keywords" content="instagram fonts, font generator, instagram bio fonts, social media fonts, cool fonts, fancy text, font converter" />
-    <meta name="author" content="IG Fonts">
-    <meta name="robots" content="index, follow">
-    <meta name="theme-color" content="#1f2121">
-    <!-- PWA Meta Tags -->
-    <meta name="mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-title" content="IG Fonts">
-    <meta name="apple-mobile-web-app-status-bar-style" content="default">
-    <title>IG Fonts - Generate Stylish Instagram Fonts | Free Font Generator</title>
-    <link rel="stylesheet" href="/instagram-bio-generator/assets/main-BftHMY9G.css">
-  </head>
-  <body>
-    <div id="root"></div>
-    <script type="module" src="/instagram-bio-generator/assets/main-CDFIc1LL.js"></script>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Instagram Bio Generator</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            background-color: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #333;
+            text-align: center;
+        }
+        .input-group {
+            margin-bottom: 20px;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+        input, textarea {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+        button {
+            background-color: #4CAF50;
+            color: white;
+            padding: 12px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            width: 100%;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+        .result {
+            margin-top: 20px;
+            padding: 15px;
+            background-color: #e9f7ef;
+            border-radius: 5px;
+            display: none;
+        }
+        .font-sample {
+            font-size: 24px;
+            margin: 10px 0;
+            padding: 10px;
+            background-color: #f9f9f9;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Instagram Bio Generator</h1>
+        <p>Create cool and stylish fonts for your Instagram bio with just a few clicks!</p>
+        
+        <div class="input-group">
+            <label for="bioText">Enter your text:</label>
+            <input type="text" id="bioText" placeholder="Type your bio text here...">
+        </div>
+        
+        <button onclick="generateFonts()">Generate Fonts</button>
+        
+        <div id="result" class="result">
+            <h2>Generated Fonts:</h2>
+            <div id="fontSamples"></div>
+            <button onclick="copyAll()">Copy All to Clipboard</button>
+        </div>
+    </div>
+
     <script>
-      // Check if app is installed and running in standalone mode
-      if (window.matchMedia('(display-mode: standalone)').matches || window.navigator.standalone) {
-        console.log('App is running in standalone mode');
-      } else {
-        console.log('App is running in browser mode');
-      }
-      
-      // Register service worker
-      if ('serviceWorker' in navigator) {
-        window.addEventListener('load', () => {
-          navigator.serviceWorker.register('/instagram-bio-generator/sw.js')
-            .then(registration => {
-              console.log('SW registered: ', registration);
-            })
-            .catch(registrationError => {
-              console.log('SW registration failed: ', registrationError);
+        // Cool font styles for Instagram bios
+        const fontStyles = [
+            text => text,  // Normal
+            text => text.split('').map(char => String.fromCharCode(0x1D400 + char.charCodeAt(0) - 65)).join('').replace(/\u{1D400}/gu, 'A'),  // Mathematical bold
+            text => text.split('').map(char => String.fromCharCode(0x1D434 + char.charCodeAt(0) - 65)).join('').replace(/\u{1D434}/gu, 'A'),  // Mathematical italic
+            text => text.split('').map(char => String.fromCharCode(0x1D5A0 + char.charCodeAt(0) - 65)).join('').replace(/\u{1D5A0}/gu, 'A'),  // Mathematical sans-serif
+            text => text.split('').map(char => String.fromCharCode(0x1D608 + char.charCodeAt(0) - 65)).join('').replace(/\u{1D608}/gu, 'A'),  // Mathematical sans-serif bold
+            text => text.split('').map(char => String.fromCharCode(0x1D56C + char.charCodeAt(0) - 65)).join('').replace(/\u{1D56C}/gu, 'A'),  // Mathematical monospace
+            text => text.split('').map(char => char.charCodeAt(0) > 96 ? String.fromCodePoint(0x1F170 + char.charCodeAt(0) - 97) : char).join(''),  // Regional indicator symbols
+            text => text.split('').map(char => char.charCodeAt(0) >= 65 && char.charCodeAt(0) <= 90 ? String.fromCodePoint(0x1F1E6 + char.charCodeAt(0) - 65) : char).join(''),  // Regional indicator symbols (uppercase)
+            text => '★彡' + text + '彡★',  // Decorative stars
+            text => '【' + text + '】',  // Brackets
+            text => text.split('').map(char => char === ' ' ? '  ' : char + ' ').join(''),  // Spaced letters
+            text => text.split('').map(char => char === ' ' ? ' ' : char + '\u0307').join(''),  // Dots above
+            text => text.split('').map(char => char === ' ' ? ' ' : char + '\u0305').join(''),  // Bars above
+            text => text.split('').map(char => char === ' ' ? ' ' : char + '\u0332').join(''),  // Underlines
+            text => text.split('').map(char => char === ' ' ? ' ' : char + '\u0336').join(''),  // Strikethrough
+            text => text.split('').map(char => char === ' ' ? ' ' : char + '\u0353').join(''),  // Waves
+        ];
+
+        function generateFonts() {
+            const text = document.getElementById('bioText').value;
+            if (!text) {
+                alert('Please enter some text first!');
+                return;
+            }
+
+            const fontSamples = document.getElementById('fontSamples');
+            fontSamples.innerHTML = '';
+
+            fontStyles.forEach((style, index) => {
+                try {
+                    const styledText = style(text);
+                    const sampleDiv = document.createElement('div');
+                    sampleDiv.className = 'font-sample';
+                    sampleDiv.innerHTML = `
+                        <div>Style ${index + 1}:</div>
+                        <div>${styledText}</div>
+                        <button onclick="copyToClipboard('${styledText.replace(/'/g, "\\'")}')">Copy</button>
+                    `;
+                    fontSamples.appendChild(sampleDiv);
+                } catch (e) {
+                    console.error('Error generating font style:', e);
+                }
             });
-        });
-      }
+
+            document.getElementById('result').style.display = 'block';
+        }
+
+        function copyToClipboard(text) {
+            navigator.clipboard.writeText(text).then(() => {
+                alert('Copied to clipboard: ' + text);
+            }).catch(err => {
+                console.error('Failed to copy: ', err);
+                // Fallback for older browsers
+                const textArea = document.createElement('textarea');
+                textArea.value = text;
+                document.body.appendChild(textArea);
+                textArea.select();
+                document.execCommand('copy');
+                document.body.removeChild(textArea);
+                alert('Copied to clipboard: ' + text);
+            });
+        }
+
+        function copyAll() {
+            const samples = document.querySelectorAll('.font-sample div:nth-child(2)');
+            const allText = Array.from(samples).map(div => div.textContent).join('\n\n');
+            copyToClipboard(allText);
+        }
     </script>
-  </body>
+</body>
 </html>
