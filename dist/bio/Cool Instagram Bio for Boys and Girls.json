@@ -1,0 +1,892 @@
+{
+  "instagramBios": [
+    {
+      "id": "cool_bio_001",
+      "text": "👑 զʊɛɛռ օʄ ʍʏ օառ ʟɨʄɛ \n😎 ᴬᵗᵗⁱᵗᵘᵈᵉ ᵈᵉᵖᵉⁿᵈˢ ᵒⁿ ʸᵒᵘ \n😤 𝕸𝖞 𝖑𝖎𝖋𝖊, 𝖒𝖞 𝖗𝖚𝖑𝖊𝖘 \n❤️ ℙ𝐇σstag𝔾𝔸𝙋ℍ𝕐 \n💙 𝒦𝒯𝑀 𝒟𝓊𝓀𝑒 𝒷𝒾𝓀𝑒 𝓁☯𝓋𝑒rparr \n👊 ᖴIGᕼT ᖴOᖇ ᖴITᑎEᔕᔕ \n🍰 Ŵⓘ𝓢 홈페이지 ᵒⁿ ❷Ѳ 𝓞𝐂𝓽𝕆 Bbw𝔢𝔯",
+      "language": "English",
+      "categories": ["Royalty", "Attitude", "Lifestyle"],
+      "keywords": ["queen", "life", "rules", "attitude", "photography", "ktm", "duke", "bike", "lover", "fight", "fitness", "birthday"],
+      "gender": "Female"
+    },
+    {
+      "id": "cool_bio_002",
+      "text": "✨ 𝕬 𝖉𝖗𝖊𝖆𝖒𝖊𝖗 𝖜𝖎𝖙𝖍 𝖆 𝖕𝖑𝖆𝖓 \n💖 𝕷𝖎𝖛𝖎𝖓𝖌 𝖒𝖞 𝖇𝖊𝖘𝖙 𝖑𝖎𝖋𝖊 \n😊 𝕊𝕡𝕣𝕖𝕒𝕕𝕚𝕟𝕘 𝕛𝕠𝕪",
+      "language": "English",
+      "categories": ["Dreams", "Lifestyle", "Positivity"],
+      "keywords": ["dreamer", "plan", "living", "best", "life", "spreading", "joy"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_003",
+      "text": "🚀 𝐄𝐱𝐩𝐥𝐨𝐫𝐢𝐧𝐠 𝐭𝐡𝐞 𝐮𝐧𝐤𝐧𝐨𝐰𝐧 \n🌌 𝐂𝐨𝐬𝐦𝐢𝐜 𝐯𝐢𝐛𝐞𝐬 \n💫 𝐌𝐚𝐤𝐢𝐧𝐠 𝐦𝐚𝐠𝐢𝐜",
+      "language": "English",
+      "categories": ["Adventure", "Cosmic", "Magic"],
+      "keywords": ["exploring", "unknown", "cosmic", "vibes", "making", "magic"],
+      "gender": "Female"
+    },
+    {
+      "id": "cool_bio_004",
+      "text": "🎵 𝐌𝐮𝐬𝐢𝐜 𝐢𝐬 𝐦𝐲 𝐞𝐬𝐜𝐚𝐩𝐞 \n🎧 𝐋𝐨𝐮𝐝 𝐦𝐮𝐬𝐢𝐜, 𝐜𝐥𝐞𝐚𝐫 𝐦𝐢𝐧𝐝 \n🎶 𝐑𝐡𝐲𝐭𝐡𝐦 𝐨𝐟 𝐥𝐢𝐟𝐞",
+      "language": "English",
+      "categories": ["Music", "Mindfulness", "Lifestyle"],
+      "keywords": ["music", "escape", "loud", "clear", "mind", "rhythm", "life"],
+      "gender": "Female"
+    },
+    {
+      "id": "cool_bio_005",
+      "text": "📚 𝐁𝐨𝐨𝐤𝐰𝐨𝐫𝐦 𝐚𝐧𝐝 𝐩𝐫𝐨𝐮𝐝 \n🤓 𝐊𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞 𝐢𝐬 𝐩𝐨𝐰𝐞𝐫 \n📖 𝐒𝐭𝐨𝐫𝐢𝐞𝐬 𝐢𝐧 𝐦𝐲 𝐬𝐨𝐮𝐥",
+      "language": "English",
+      "categories": ["Books", "Knowledge", "Intellectual"],
+      "keywords": ["bookworm", "proud", "knowledge", "power", "stories", "soul"],
+      "gender": "Female"
+    },
+    {
+      "id": "cool_bio_006",
+      "text": "🌿 𝐍𝐚𝐭𝐮𝐫𝐞 𝐥𝐨𝐯𝐞𝐫 \n🌲 𝐀𝐝𝐯𝐞𝐧𝐭𝐮𝐫𝐞 𝐬𝐞𝐞𝐤𝐞𝐫 \n🌻 𝐒𝐮𝐧𝐬𝐡𝐢𝐧𝐞 𝐚𝐧𝐝 𝐠𝐫𝐨𝐰𝐭𝐡",
+      "language": "English",
+      "categories": ["Nature", "Adventure", "Growth"],
+      "keywords": ["nature", "lover", "adventure", "seeker", "sunshine", "growth"],
+      "gender": "Female"
+    },
+    {
+      "id": "cool_bio_007",
+      "text": "🍕 𝐅𝐨𝐨𝐝𝐢𝐞 𝐟𝐨𝐫 𝐥𝐢𝐟𝐞 \n🍔 𝐄𝐚𝐭𝐢𝐧𝐠 𝐦𝐲 𝐰𝐚𝐲 𝐭𝐡𝐫𝐨𝐮𝐠 \n😋 𝐓𝐚𝐬𝐭𝐞 𝐭𝐡𝐞 𝐚𝐝𝐯𝐞𝐧𝐭𝐮𝐫𝐞",
+      "language": "English",
+      "categories": ["Food", "Lifestyle", "Adventure"],
+      "keywords": ["foodie", "life", "eating", "way", "through", "taste", "adventure"],
+      "gender": "Female"
+    },
+    {
+      "id": "cool_bio_008",
+      "text": "🎨 𝐂𝐫𝐞𝐚𝐭𝐢𝐯𝐞 𝐬𝐨𝐮𝐥 \n🖌️ 𝐀𝐫𝐭 𝐢𝐬 𝐦𝐲 𝐭𝐡𝐞𝐫𝐚𝐩𝐲 \n🌈 𝐂𝐨𝐥𝐨𝐫𝐢𝐧𝐠 𝐭𝐡𝐞 𝐰𝐨𝐫𝐥𝐝",
+      "language": "English",
+      "categories": ["Creativity", "Art", "Expression"],
+      "keywords": ["creative", "soul", "art", "therapy", "coloring", "world"],
+      "gender": "Female"
+    },
+    {
+      "id": "cool_bio_009",
+      "text": "🏋️‍♀️ 𝐅𝐢𝐭𝐧𝐞𝐬𝐬 𝐟𝐫𝐞𝐚𝐤 \n💯 𝐍𝐨 𝐩𝐚𝐢𝐧, 𝐧𝐨 𝐠𝐚𝐢𝐧 \n🔥 𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧 𝐦𝐲𝐬𝐞𝐥𝐟",
+      "language": "English",
+      "categories": ["Fitness", "Motivation", "Self-improvement"],
+      "keywords": ["fitness", "freak", "pain", "gain", "working", "myself"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_010",
+      "text": "✈️ 𝐖𝐚𝐧𝐝𝐞𝐫𝐥𝐮𝐬𝐭 𝐚𝐝𝐝𝐢𝐜𝐭 \n🌍 𝐂𝐨𝐥𝐥𝐞𝐜𝐭𝐢𝐧𝐠 𝐦𝐨𝐦𝐞𝐧𝐭𝐬 \n🗺️ 𝐍𝐞𝐱𝐭 𝐝𝐞𝐬𝐭𝐢𝐧𝐚𝐭𝐢𝐨𝐧?",
+      "language": "English",
+      "categories": ["Travel", "Wanderlust", "Adventure"],
+      "keywords": ["wanderlust", "addict", "collecting", "moments", "next", "destination"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_011",
+      "text": "🎮 𝐆𝐚𝐦𝐞𝐫 𝐚𝐭 𝐡𝐞𝐚𝐫𝐭 \n👾 𝐋𝐞𝐯𝐞𝐥𝐢𝐧𝐠 𝐮𝐩 𝐥𝐢𝐟𝐞 \n🏆 𝐖𝐢𝐧𝐧𝐞𝐫 𝐦𝐞𝐧𝐭𝐚𝐥𝐢𝐭𝐲",
+      "language": "English",
+      "categories": ["Gaming", "Life", "Winning"],
+      "keywords": ["gamer", "heart", "leveling", "life", "winner", "mentality"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_012",
+      "text": "🐾 𝐀𝐧𝐢𝐦𝐚𝐥 𝐥𝐨𝐯𝐞𝐫 \n🐶 𝐃𝐨𝐠 𝐦𝐨𝐦/𝐝𝐚𝐝 \n❤️ 𝐏𝐚𝐰𝐬𝐢𝐭𝐢𝐯𝐞 𝐯𝐢𝐛𝐞𝐬",
+      "language": "English",
+      "categories": ["Animals", "Pets", "Positivity"],
+      "keywords": ["animal", "lover", "dog", "mom", "dad", "pawsitive", "vibes"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_013",
+      "text": "📸 𝐂𝐚𝐩𝐭𝐮𝐫𝐢𝐧𝐠 𝐦𝐨𝐦𝐞𝐧𝐭𝐬 \n🎞️ 𝐋𝐢𝐟𝐞 𝐭𝐡𝐫𝐨𝐮𝐠𝐡 𝐦𝐲 𝐥𝐞𝐧𝐬 \n✨ 𝐏𝐢𝐜𝐭𝐮𝐫𝐞 𝐩𝐞𝐫𝐟𝐞𝐜𝐭",
+      "language": "English",
+      "categories": ["Photography", "Life", "Perfection"],
+      "keywords": ["capturing", "moments", "life", "lens", "picture", "perfect"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_014",
+      "text": "💡 𝐈𝐝𝐞𝐚𝐬 𝐢𝐧 𝐦𝐨𝐭𝐢𝐨𝐧 \n🧠 𝐂𝐨𝐧𝐬𝐭𝐚𝐧𝐭𝐥𝐲 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 \n💭 𝐓𝐡𝐢𝐧𝐤𝐞𝐫 & 𝐝𝐨𝐞𝐫",
+      "language": "English",
+      "categories": ["Ideas", "Learning", "Thinking"],
+      "keywords": ["ideas", "motion", "constantly", "learning", "thinker", "doer"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_015",
+      "text": "☕ 𝐂𝐨𝐟𝐟𝐞𝐞 𝐚𝐝𝐝𝐢𝐜𝐭 \n🌞 𝐌𝐨𝐫𝐧𝐢𝐧𝐠 𝐛𝐫𝐞𝐰𝐬 \n⚡ 𝐄𝐧𝐞𝐫𝐠𝐲 𝐨𝐧 𝐭𝐚𝐩",
+      "language": "English",
+      "categories": ["Coffee", "Morning", "Energy"],
+      "keywords": ["coffee", "addict", "morning", "brews", "energy", "tap"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_016",
+      "text": "💖 𝐒𝐞𝐥𝐟-𝐥𝐨𝐯𝐞 𝐣𝐨𝐮𝐫𝐧𝐞𝐲 \n🦋 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐢𝐧 𝐩𝐫𝐨𝐠𝐫𝐞𝐬𝐬 \n💫 𝐈𝐧𝐧𝐞𝐫 𝐩𝐞𝐚𝐜𝐞",
+      "language": "English",
+      "categories": ["Self-love", "Transformation", "Peace"],
+      "keywords": ["self-love", "journey", "transformation", "progress", "inner", "peace"],
+      "gender": "Female"
+    },
+    {
+      "id": "cool_bio_017",
+      "text": "👑 𝐊𝐢𝐧𝐠 𝐨𝐟 𝐦𝐲 𝐨𝐰𝐧 𝐜𝐚𝐬𝐭𝐥𝐞 \n💪 𝐇𝐮𝐬𝐭𝐥𝐞 𝐚𝐧𝐝 𝐡𝐞𝐚𝐫𝐭 \n💯 𝐁𝐨𝐫𝐧 𝐭𝐨 𝐬𝐮𝐜𝐜𝐞𝐞𝐝",
+      "language": "English",
+      "categories": ["Royalty", "Hustle", "Success"],
+      "keywords": ["king", "castle", "hustle", "heart", "born", "succeed"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_018",
+      "text": "🎶 𝑴𝒖𝒔𝒊𝒄 𝒊𝒏 𝒎𝒚 𝒔𝒐𝒖𝒍 \n🎸 𝑹𝒐𝒄𝒌 𝒐𝒏 \n🤘 𝑳𝒊𝒗𝒆 𝒍𝒊𝒇𝒆 𝒍𝒐𝒖𝒅",
+      "language": "English",
+      "categories": ["Music", "Rock", "Lifestyle"],
+      "keywords": ["music", "soul", "rock", "live", "life", "loud"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_019",
+      "text": "☀️ 𝑺𝒖𝒏𝒔𝒉𝒊𝒏𝒆 𝒂𝒏𝒅 𝒈𝒐𝒐𝒅 𝒗𝒊𝒃𝒆𝒔 \n🌴 𝑩𝒆𝒂𝒄𝒉 𝒍𝒐𝒗𝒆𝒓 \n🌊 𝑺𝒂𝒍𝒕 𝒊𝒏 𝒎𝒚 𝒉𝒂𝒊𝒓",
+      "language": "English",
+      "categories": ["Sunshine", "Beach", "Nature"],
+      "keywords": ["sunshine", "good", "vibes", "beach", "lover", "salt", "hair"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_020",
+      "text": "🌸 𝑬𝒎𝒃𝒓𝒂𝒄𝒊𝒏𝒈 𝒎𝒚 𝒋𝒐𝒖𝒓𝒏𝒆𝒚 \n✨ 𝑮𝒓𝒐𝒘𝒊𝒏𝒈 𝒂𝒏𝒅 𝒔𝒉𝒊𝒏𝒊𝒏𝒈 \n🌟 𝑪𝒉𝒂𝒔𝒊𝒏𝒈 𝒅𝒓𝒆𝒂𝒎𝒔",
+      "language": "English",
+      "categories": ["Journey", "Growth", "Dreams"],
+      "keywords": ["embracing", "journey", "growing", "shining", "chasing", "dreams"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_021",
+      "text": "🔥 𝑷𝒂𝒔𝒔𝒊𝒐𝒏 𝒐𝒗𝒆𝒓 𝒆𝒗𝒆𝒓𝒚𝒕𝒉𝒊𝒏𝒈 \n🎯 𝑭𝒐𝒄𝒖𝒔𝒆𝒅 𝒂𝒏𝒅 𝒅𝒓𝒊𝒗𝒆𝒏 \n🚀 𝑹𝒆𝒂𝒄𝒉𝒊𝒏𝒈 𝒇𝒐𝒓 𝒕𝒉𝒆 𝒔𝒕𝒂𝒓𝒔",
+      "language": "English",
+      "categories": ["Passion", "Focus", "Ambition"],
+      "keywords": ["passion", "everything", "focused", "driven", "reaching", "stars"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_022",
+      "text": "🌻 𝑺𝒊𝒎𝒑𝒍𝒆 𝒑𝒍𝒆𝒂𝒔𝒖𝒓𝒆𝒔 \n😊 𝑪𝒐𝒏𝒕𝒆𝒏𝒕 𝒂𝒏𝒅 𝒄𝒂𝒍𝒎 \n🧘‍♀️ 𝑩𝒂𝒍𝒂𝒏𝒄𝒆𝒅 𝒍𝒊𝒇𝒆",
+      "language": "English",
+      "categories": ["Simplicity", "Contentment", "Balance"],
+      "keywords": ["simple", "pleasures", "content", "calm", "balanced", "life"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_023",
+      "text": "👑 𝓠𝓾𝓮𝓮𝓷 𝓥𝓲𝙗𝓮𝓼 \n💅 𝓢𝓹𝓪𝓻𝓴𝓵𝓮 𝓪𝓷𝓭 𝓼𝓱𝓲𝓷𝓮 \n💖 𝓖𝓵𝓸𝔀𝓲𝓷𝓰 𝔀𝓲𝓽𝓱𝓲𝓷",
+      "language": "English",
+      "categories": ["Royalty", "Beauty", "Self-love"],
+      "keywords": ["queen", "vibes", "sparkle", "shine", "glowing", "within"],
+      "gender": "Female"
+    },
+    {
+      "id": "cool_bio_024",
+      "text": "💪 𝑮𝒚𝒎 𝒊𝒔 𝒎𝒚 𝒔𝒂𝒏𝒄𝒕𝒖𝒂𝒓𝒚 \n🔥 𝑭𝒊𝒕𝒏𝒆𝒔𝒔 𝒊𝒔 𝒂 𝒍𝒊𝒇𝒆𝒔𝒕𝒚𝒍𝒆 \n😤 𝑵𝒆𝒗𝒆𝒓 𝒈𝒊𝒗𝒆 𝒖𝒑",
+      "language": "English",
+      "categories": ["Fitness", "Lifestyle", "Perseverance"],
+      "keywords": ["gym", "sanctuary", "fitness", "lifestyle", "never", "give", "up"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_025",
+      "text": "📚 𝑲𝒏𝒐𝒘𝒍𝒆𝒅𝒈𝒆 𝒔𝒆𝒆𝒌𝒆𝒓 \n💡 𝑪𝒐𝒏𝒔𝒕𝒂𝒏𝒕𝒍𝒚 𝒄𝒖𝒓𝒊𝒐𝒖𝒔 \n🧠 𝑳𝒊𝒇𝒆𝒍𝒐𝒏𝒈 𝒍𝒆𝒂𝒓𝒏𝒆𝒓",
+      "language": "English",
+      "categories": ["Knowledge", "Curiosity", "Learning"],
+      "keywords": ["knowledge", "seeker", "constantly", "curious", "lifelong", "learner"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_026",
+      "text": "🎶 𝕬 𝖒𝖊𝖑𝖔𝖉𝖞 𝖔𝖋 𝖑𝖎𝖋𝖊 \n🎸 𝕽𝖔𝖈𝖐 𝖆𝖓𝖉 𝖗𝖔𝖑𝖑 \n⚡ 𝕰𝖑𝖊𝖈𝖙𝖗𝖎𝖋𝖞𝖎𝖓𝖌 𝖒𝖔𝖒𝖊𝖓𝖙𝖘",
+      "language": "English",
+      "categories": ["Music", "Rock", "Energy"],
+      "keywords": ["melody", "life", "rock", "roll", "electrifying", "moments"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_027",
+      "text": "🌸 𝕭𝖑𝖔𝖔𝖒𝖎𝖓𝖌 𝖜𝖎𝖙𝖍 𝖌𝖗𝖆𝖈𝖊 \n🦋 𝕿𝖗𝖆𝖓𝖘𝖋𝖔𝖗𝖒𝖆𝖙𝖎𝖔𝖓 𝖎𝖘 𝖐𝖊𝖞 \n✨ 𝕰𝖒𝖇𝖗𝖆𝖈𝖎𝖓𝖌 𝖈𝖍𝖆𝖓𝖌𝖊",
+      "language": "English",
+      "categories": ["Growth", "Transformation", "Change"],
+      "keywords": ["blooming", "grace", "transformation", "key", "embracing", "change"],
+      "gender": "Female"
+    },
+    {
+      "id": "cool_bio_028",
+      "text": "😎 𝓐𝓽𝓽𝓲𝓽𝓾𝓭𝓮 𝓲ıs 𝓮𝓿𝓮𝓻𝔂𝓽𝓱𝓲𝓷𝒈 \n💯 𝕾𝖊𝒍𝖋-𝖒𝖆𝖉𝖊 \n🚀 𝕯𝖗𝖎𝖛𝖊𝓷 𝖇𝖞 𝖕𝖚𝖗𝖕𝖔𝖘𝖊",
+      "language": "English",
+      "categories": ["Attitude", "Self-made", "Purpose"],
+      "keywords": ["attitude", "everything", "self-made", "driven", "purpose"],
+      "gender": "Female"
+    },
+    {
+      "id": "cool_bio_029",
+      "text": "📸 𝕮𝖆𝖕𝖙𝖚𝖗𝖎𝖓𝖌 𝖒𝖊𝖒𝖔𝖗𝖎𝖊𝖘 \n🎥 𝕷𝖎𝖋𝖊 𝖎𝖓 𝖒𝖔𝓽𝖎𝖔’n \n💖 𝕬𝖗𝖙 𝖔𝖋 𝖑𝖎𝖛𝖎𝖓𝖌",
+      "language": "English",
+      "categories": ["Photography", "Life", "Art"],
+      "keywords": ["capturing", "memories", "life", "motion", "art", "living"],
+      "gender": "Female"
+    },
+    {
+      "id": "cool_bio_030",
+      "text": "💖 ℳ𝓎 ℒ𝒾𝒻𝑒, ℳ𝓎 ℛ𝓊𝓁𝑒𝓈 \n✨ 𝒮𝓅𝒶𝓇𝓀𝓁𝑒 𝐸𝓋𝑒𝓇𝓎𝒹𝒶𝓎 \n👑 𝒦𝒾𝓃𝑔/𝒬𝓊𝑒𝑒𝓃 𝒱𝒾𝒷𝑒𝓈",
+      "language": "English",
+      "categories": ["Life", "Royalty", "Daily Vibes"],
+      "keywords": ["life", "rules", "sparkle", "everyday", "king", "queen", "vibes"],
+      "gender": "Female"
+    },
+    {
+      "id": "cool_bio_031",
+      "text": "🚀 𝒜𝒹𝒗𝒆𝓃𝓉𝓊𝓇𝒆 𝒜𝓌𝒶𝒾𝓉𝓈 \n🌍 𝐸𝓍𝓅𝓁𝑜𝓇𝑒 𝑀𝑜𝓇𝑒 \n💫 𝒯𝓇𝒶𝓋𝑒𝓁 𝐿𝑜 volunte𝓇",
+      "language": "English",
+      "categories": ["Adventure", "Exploration", "Travel"],
+      "keywords": ["adventure", "awaits", "explore", "more", "travel", "lover"],
+      "gender": "Female"
+    },
+    {
+      "id": "cool_bio_032",
+      "text": "💪 𝐹𝒾𝓉𝓃𝑒𝓈𝓈 𝒥𝑜𝓊rparr𝓃𝑒.RowStyle \n🔥 𝒩𝑜 𝐸𝓍�𝓊𝓈ès \n💯 𝒲𝑜𝓇𝓀 𝐻𝒶𝓇𝒹, 𝒮𝓉𝒶𝒚 𝐻𝓊𝓂𝒷𝓁𝔢",
+      "language": "English",
+      "categories": ["Fitness", "Journey", "Work Ethic"],
+      "keywords": ["fitness", "journey", "no", "excuses", "work", "hard", "stay", "humble"],
+      "gender": "Female"
+    },
+    {
+      "id": "cool_bio_033",
+      "text": "🎶 𝑀𝓊𝓈𝒾𝒸 𝒾𝓈 𝐿𝒾𝒻𝑒 \n🎧 𝒫𝓁𝒶𝓎𝒾𝓃𝑔 𝑀𝓎 𝒪𝓌𝓃 𝒮𝑜𝓃𝑔 \n🎤 𝒮𝒾𝓃𝑔 𝒴𝑜𝓊𝓇 𝐻𝑒𝒶𝓇𝓉 𝒪𝓊𝓉",
+      "language": "English",
+      "categories": ["Music", "Life", "Expression"],
+      "keywords": ["music", "life", "playing", "own", "song", "sing", "heart", "out"],
+      "gender": "Female"
+    },
+    {
+      "id": "cool_bio_034",
+      "text": "🎨 𝒞𝓇𝑒𝒶𝓉𝒾𝓋𝑒 𝒮𝑜𝓊𝓁 \n🌈 𝒟𝓇𝑒𝒶𝓂 𝐵𝒾𝑔 \n✨ 𝑀𝒶𝓀𝑒 𝒜𝓇𝓉",
+      "language": "English",
+      "categories": ["Creativity", "Dreams", "Art"],
+      "keywords": ["creative", "soul", "dream", "big", "make", "art"],
+      "gender": "Female"
+    },
+    {
+      "id": "cool_bio_035",
+      "text": "📚 𝐵𝑜𝑜𝓀 𝐿𝑜𝓋𝑒𝓇 \n🤓 𝒞𝓊𝓇𝒾𝑜𝓊𝓈 𝑀𝒾𝓃𝒹 \n📖 𝑅𝑒𝒶𝒹𝒾𝓃𝑔 𝓉𝒽𝑒 𝒲𝑜𝓇𝓁𝒹",
+      "language": "English",
+      "categories": ["Books", "Curiosity", "Reading"],
+      "keywords": ["book", "lover", "curious", "mind", "reading", "world"],
+      "gender": "Female"
+    },
+    {
+      "id": "cool_bio_036",
+      "text": "☕ 𝒞𝑜𝒻𝒻𝑒𝑒 & 𝒞𝒽𝒾 Incontri \n😊 𝒮𝒾𝓂𝒫𝓁𝒆 𝒫𝓁𝑒𝒶𝓈𝓊𝓇𝑒𝓈 \n🌞 𝒮𝓊𝓃ş𝒻𝒾𝒏𝒆 𝒱𝒾𝒷𝑒𝓈",
+      "language": "English",
+      "categories": ["Coffee", "Relaxation", "Simple Pleasures"],
+      "keywords": ["coffee", "chill", "simple", "pleasures", "sunshine", "vibes"],
+      "gender": "Female"
+    },
+    {
+      "id": "cool_bio_037",
+      "text": "🌿 𝒩𝒶𝓉𝓊𝓇𝑒 𝐸𝓃𝓉𝒽𝓊𝓈𝒾𝒶𝓈𝓉 \n🌲 𝐻𝒾𝓀𝒾𝓃𝑔 𝒜𝒹𝓋𝑒𝓃𝓉𝓊𝓇𝒆𝓈 \n🌸 𝐹𝒾𝓃𝒹𝒾𝓃𝑔 𝐵𝑒𝒶𝓊𝓉𝓎",
+      "language": "English",
+      "categories": ["Nature", "Adventure", "Beauty"],
+      "keywords": ["nature", "enthusiast", "hiking", "adventures", "finding", "beauty"],
+      "gender": "Female"
+    },
+    {
+      "id": "cool_bio_038",
+      "text": "🍕 𝐹𝑜𝑜𝒹𝒾𝑒 𝐹𝑜𝓇 𝐿𝒾𝒻𝑒 \n🍜 𝐸𝒶𝓉, 𝒫𝓇𝒶𝓎, 𝐿𝑜 volunte\r\n😋 𝒟𝑒𝓁𝒾𝒸𝒾𝑜𝓊𝓈 𝑀𝑜𝓂𝑒𝓃𝓉𝓈",
+      "language": "English",
+      "categories": ["Food", "Lifestyle", "Delicious"],
+      "keywords": ["foodie", "life", "eat", "pray", "love", "delicious", "moments"],
+      "gender": "Female"
+    },
+    {
+      "id": "cool_bio_039",
+      "text": "📸 𝒫𝒽𝑜𝓉𝑜𝑔𝓇𝒶𝓅𝒽𝓎 𝐿𝑜𝓋𝑒𝓇 \n🎞️ 𝒞𝒶𝓅𝓉𝓊𝓇𝒾𝓃𝑔 𝐿𝒾𝒻𝑒 \n✨ 𝒮𝓉𝑜𝓇𝒾𝑒𝓈 𝒾𝓃 𝒫𝒾𝓍𝑒𝓁𝓈",
+      "language": "English",
+      "categories": ["Photography", "Life", "Stories"],
+      "keywords": ["photography", "lover", "capturing", "life", "stories", "pixels"],
+      "gender": "Female"
+    },
+    {
+      "id": "cool_bio_040",
+      "text": "🧘‍♀️ 𝑀𝒾𝓃𝒹, 𝐵𝑜𝒹𝓎, 𝒮𝑜𝓊𝓁 \n🌸 𝐼𝓃𝓃𝑒𝓇 𝒫𝑒𝒶𝒸𝑒 \n💖 𝒫𝑜𝓈𝒾𝓉𝒾𝓋𝑒 𝒱𝒾බ𝑒𝓈",
+      "language": "English",
+      "categories": ["Mindfulness", "Inner Peace", "Positivity"],
+      "keywords": ["mind", "body", "soul", "inner", "peace", "positive", "vibes"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_041",
+      "text": "🐾 𝒜𝓃𝒾𝓂𝒶𝓁 𝒜𝒹𝓋𝑜𝒸𝒶𝓉𝑒 \n🐶 𝒫𝑒𝓉 𝐿𝑜𝓋𝑒𝓇 \n❤️ 𝐹𝓊𝓇rparr𝐲 𝐹𝓇𝒾𝑒𝓃𝒹𝓈",
+      "language": "English",
+      "categories": ["Animals", "Pets", "Love"],
+      "keywords": ["animal", "advocate", "pet", "lover", "furry", "friends"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_042",
+      "text": "🌙 𝒟𝓇𝑒𝒶𝓂𝑒𝓇 \n💫 𝒮𝓉𝒶𝓇𝑔𝒶𝓏𝑒𝓇 \n✨ 𝒫𝓊𝓇𝓈𝓊𝒾𝓃𝑔 𝑀𝒶𝑔𝒾𝒸",
+      "language": "English",
+      "categories": ["Dreams", "Stargazing", "Magic"],
+      "keywords": ["dreamer", "stargazer", "pursuing", "magic"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_043",
+      "text": "🎮 𝒢𝒶𝓂𝑒𝓇 \n🏆 𝐿𝑒 volunte 𝒰𝓅 \n🚀 𝒱𝒾𝓇𝓉𝓊𝒶𝓁 𝑅𝑒𝒶𝓁𝒾𝓉𝓎",
+      "language": "English",
+      "categories": ["Gaming", "Level Up", "Virtual Reality"],
+      "keywords": ["gamer", "level", "up", "virtual", "reality"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_044",
+      "text": "💙 𝒦𝒯𝑀 𝒟𝓊𝓀𝑒 𝒷𝒾𝓀𝑒 𝓁☯𝓋𝑒rparr \n🏍️ 𝑅𝒾𝒹𝑒 𝑜𝓇 𝒟𝒾𝑒 \n💨 𝒮𝓅𝑒𝑒𝒹 𝐄𝓃𝓉𝒽𝓊𝓈𝒾𝒶𝓈𝓉",
+      "language": "English",
+      "categories": ["Bikes", "Riding", "Speed"],
+      "keywords": ["ktm", "duke", "bike", "lover", "ride", "die", "speed", "enthusiast"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_045",
+      "text": "👊 ᖴIGᕼT ᖴOᖇ ᖴITᑎEᔕᔕ \n🥊 𝒫𝓊𝓈𝒽 𝒴𝑜𝓊𝓇 𝐿𝒾𝓂𝒾𝓉𝓈 \n💪 𝒲𝑜𝓇𝓀𝑜𝓊𝓽 𝑀𝑜𝓉𝒾𝓋𝒶𝓉𝒾𝑜𝑛",
+      "language": "English",
+      "categories": ["Fitness", "Motivation", "Workout"],
+      "keywords": ["fight", "fitness", "push", "limits", "workout", "motivation"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_046",
+      "text": "🎂 Ŵⓘ𝓢 홈페이지 ᵒⁿ ❷Ѳ 𝓞𝐂𝓽𝕆 Bbw𝔢𝔯 \n🎉 𝒞𝑒𝓁𝑒𝒷𝓇𝒶𝓉𝒾𝓃𝑔 𝐿𝒾𝒻𝑒 \n🥳 𝐵𝒾rparr𝓉𝒽𝒹𝒶𝓎 𝒱𝒾බ𝑒𝓈",
+      "language": "English",
+      "categories": ["Birthday", "Celebration", "Life"],
+      "keywords": ["wish", "october", "celebrating", "life", "birthday", "vibes"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_047",
+      "text": "🌟 𝓒𝓱𝓪𝓼𝓲𝓷𝓰 𝓢𝓾𝓷𝓼𝓱𝓲𝓷𝓮 \n🌞 𝓦𝓪𝓻𝓶 𝓗𝓮𝓪𝓻𝓽 \n✨ 𝓖𝓵𝓸𝔀𝓲𝓷𝓰 𝓦𝓲𝓽𝓱𝓲𝓷",
+      "language": "English",
+      "categories": ["Sunshine", "Warmth", "Glowing"],
+      "keywords": ["chasing", "sunshine", "warm", "heart", "glowing", "within"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_048",
+      "text": "💎 𝓡𝓪𝓻𝓮 𝓪𝓷𝓭 𝓟𝓻𝓮𝓬𝓲𝓸𝓾𝓼 \n👑 𝓤𝓷𝓲𝓺𝓾𝓮 𝓢𝓸𝓾𝓵 \n💖 𝓢𝓮𝓵𝓯-𝓵𝓸𝓿𝓮 𝓒𝓵𝓾𝓫",
+      "language": "English",
+      "categories": ["Rarity", "Uniqueness", "Self-love"],
+      "keywords": ["rare", "precious", "unique", "soul", "self-love", "club"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_049",
+      "text": "🎭 𝓣𝓱𝓮𝓪𝓽𝓻𝓮 𝓛𝓸𝓿𝓮𝓻 \n🎬 𝓢𝓽𝓸𝓻𝔂𝓽𝓮𝓵𝓵𝓮𝓻 \n🌟 𝓐𝓬𝓽𝓲𝓷𝓰 𝓜𝔂 𝓓𝓻𝓮𝓪𝓶𝓼",
+      "language": "English",
+      "categories": ["Theatre", "Storytelling", "Dreams"],
+      "keywords": ["theatre", "lover", "storyteller", "acting", "dreams"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_050",
+      "text": "🍀 𝓖𝓸𝓸𝓭 𝓥𝓲𝙗𝓮𝓼 𝓞𝓷𝓵𝔂 \n🌈 𝓗𝓪𝓹𝓹𝓲𝓷𝓮𝓼𝓼 𝓒𝓱𝓪𝓼𝓮𝓻 \n😊 𝓢𝓶𝓲𝓵𝓮 𝓜𝓸𝓻𝓮",
+      "language": "English",
+      "categories": ["Vibes", "Happiness", "Smile"],
+      "keywords": ["good", "vibes", "only", "happiness", "chaser", "smile", "more"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_051",
+      "text": "⚡ 𝓔𝓷𝓮𝓻𝓰𝓮𝓽𝓲𝓬 𝓢𝓸𝓾𝓵 \n💪 𝓤𝓷𝓼𝓽𝓸CppObject 𝓤𝓷𝓼𝓽𝓸CppObject\n🚀 𝓟𝓸𝔀𝓮𝓻𝓮𝓭 𝓑𝔂 𝓓𝓻𝓮𝓪𝓶𝓼",
+      "language": "English",
+      "categories": ["Energy", "Determination", "Dreams"],
+      "keywords": ["energetic", "soul", "unstoppable", "powered", "dreams"],
+      "gender": "Unisex"
+    },
+    {
+      "id": "cool_bio_052",
+      "text": "🌌 𝓒𝓸𝓼𝓶𝓲𝓬 𝓒𝓸𝓷𝓷𝓮𝓬𝓽𝓲𝓸𝓷 \n✨ 𝓢𝓽𝓪𝓻𝓭𝓾𝓼𝓽 𝓢𝓸𝓾𝓵 \n💫 𝓤𝓷𝓲𝓿𝓮𝓻𝓼𝓮 𝓓𝔍𝓮𝓵𝓵𝓮𝓻",
+      "language": "English",
+      "categories": ["Cosmic", "Spirituality", "Universe"],
+      "keywords": ["cosmic", "connection", "stardust", "soul", "universe", "dweller"],
+      "gender": "Female"
+    },
+    {
+      "id": "cool_bio_053",
+      "text": "🍃 𝓕𝓻𝓮𝓮 𝓢𝓹𝓲𝓻𝓲𝓽 \n🦋 𝓦𝓲𝓷𝓰𝓼 𝓽𝓸 𝓕𝓵𝔂 \n💖 𝓛𝓲𝓿𝓲𝓷𝓰 𝓕𝓻𝓮𝓮𝓵𝔂",
+      "language": "English",
+      "categories": ["Freedom", "Nature", "Lifestyle"],
+      "keywords": ["free", "spirit", "wings", "fly", "living", "freely"],
+      "gender": "Female"
+    },
+    {
+      "id": "cool_bio_054",
+      "text": "💡 𝓘𝓷𝓷𝓸𝓿𝓪𝓽𝓸𝓻 \n🧠 𝓒𝓻𝓮𝓪𝓽𝓲𝓿𝓮 𝓜𝓲𝓷𝓭 \n🚀 𝓣𝓱𝓲𝓷𝓴𝓲𝓷𝓰 𝓞𝓾𝓽𝓼𝓲𝓭𝓮 𝓽𝓱𝓮 𝓑𝓸𝔁",
+      "language": "English",
+      "categories": ["Innovation", "Creativity", "Thinking"],
+      "keywords": ["innovator", "creative", "mind", "thinking", "outside", "box"],
+      "gender": "Female"
+    },
+    {
+      "id": "cool_bio_055",
+      "text": "🍩 𝓢𝔀𝓮𝓮𝓽 𝓛𝓲𝓕𝓮 \n🍰 𝓓𝓮𝓼𝓼𝓮𝓻𝓽 𝓛𝓸𝓿𝓮𝓻 \n😋 𝓛𝓲𝓕𝓮 𝓲ıs 𝓢𝔀𝓮𝓮𝓽",
+      "language": "English",
+      "categories": ["Food", "Sweetness", "Life"],
+      "keywords": ["sweet", "life", "dessert", "lover", "life is sweet"],
+      "gender": "Female"
+    },
+    {
+      "id": "cool_bio_056",
+      "text": "🎤 𝓢𝓲𝓷𝓰𝓮𝓻 \n🎵 𝓜𝓾𝓼𝓲𝓬 𝓛𝓸𝓿𝓮𝓻 \n🎶 𝓗𝓲𝒕𝓽𝓲𝓷𝓰 𝓗𝓲𝓰𝓱 ℕ𝓸𝓽𝓮𝓼",
+      "language": "English",
+      "categories": ["Music", "Singing", "Performance"],
+      "keywords": ["singer", "music", "lover", "hitting", "high", "notes"],
+      "gender": "Female"
+    },
+    {
+      "id": "cool_bio_057",
+      "text": "🎨 𝒜𝓇𝓉𝒾𝓈𝓉 \n🖌️ 𝒞𝓇𝑒𝒶𝓉𝒾𝓃𝑔 𝑀𝒶𝓈𝓉𝑒𝓇𝒫𝒾𝑒𝒸𝑒𝓈 \n🌈 𝒞𝑜𝓁𝑜𝓇𝒾𝓃𝑔 𝑀𝓎 𝒲𝑜𝓇𝓁𝒹",
+      "language": "English",
+      "categories": ["Art", "Creativity", "Expression"],
+      "keywords": ["artist", "creating", "masterpieces", "coloring", "world"],
+      "gender": "Female"
+    },
+    {
+      "id": "cool_bio_058",
+      "text": "💻 𝒯𝑒𝒄𝒽 𝐄𝓃𝓉𝒽𝓊𝓈𝒾𝒶𝓈𝓉 \n📱 𝒟𝒾𝒈𝒾𝓉𝒶𝓁 𝒩𝒶𝓉𝒾𝓋𝑒 \n🌐 𝐸𝓍𝓅𝓁𝑜𝓇𝒾𝓃𝑔 𝒞𝓎𝒷𝒆𝓇𝔰𝓹𝒶𝒸𝑒",
+      "language": "English",
+      "categories": ["Technology", "Digital", "Cyberspace"],
+      "keywords": ["tech", "enthusiast", "digital", "native", "exploring", "cyberspace"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_059",
+      "text": "📸 ᴘʜᴏᴛᴏɢʀᴀᴘʜʏ ɪs ᴍʏ ᴘᴀssɪᴏɴ \n✨ ᴄᴀᴘᴛᴜʀɪɴɢ ᴍᴏᴍᴇɴᴛs \n💖 ʟɪғᴇ ɪɴ ғʀᴀᴍᴇs",
+      "language": "English",
+      "categories": ["Photography", "Passion", "Life"],
+      "keywords": ["photography", "passion", "capturing", "moments", "life", "frames"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_060",
+      "text": "👑 𝓚𝓲𝓷𝓰 𝓸𝓯 𝓶𝔂 𝓻𝓮𝓪𝓵𝓶 \n💯 𝓐𝓽𝓽𝓲𝓽𝓾𝓭𝓮 𝔀𝓲𝓽𝓱 𝓬𝓵𝓪𝓼𝓼 \n😎 𝓑𝓸𝓻𝓷 𝓽𝓸 𝓻𝓾𝓵𝓮",
+      "language": "English",
+      "categories": ["Royalty", "Attitude", "Leadership"],
+      "keywords": ["king", "realm", "attitude", "class", "born", "rule"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_061",
+      "text": "🚀 𝓐𝓭𝓿𝓮𝓷𝓽𝓾𝓻𝓮 𝓲ıs 𝓸𝓾𝓽 𝓽𝓱𝓮𝓻𝓮 \n🌍 𝓣𝓻𝓪𝓿𝓮𝓵 𝓪𝓷𝓭 𝓮𝓍𝓹𝓵𝓸𝓻𝓮 \n🗺️ 𝓒𝓸𝓵𝓵𝓮𝓬𝓽𝓲𝓷𝓰 𝓼𝓽𝓪𝔂𝓼 𝓸𝓷 𝓶𝔂 𝓹𝓪𝓼𝓼𝓹𝓸𝓻𝓽",
+      "language": "English",
+      "categories": ["Adventure", "Travel", "Exploration"],
+      "keywords": ["adventure", "travel", "explore", "collecting", "stays", "passport"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_062",
+      "text": "💪 𝓕𝓲𝓽𝓷𝓮𝓼𝓼 𝓳𝓸𝓾𝓻𝓷𝓮𝔂 \n🏋️‍♀️ 𝓣𝓻𝓪𝓷𝓼𝓯𝓸𝓻𝓶𝓲𝓷𝓰 𝓶𝔂𝓼𝓮𝓵𝓯 \n🔥 𝓦𝓸𝓻𝓴 𝓱𝓪𝓻𝓭, 𝓭𝓻𝓮𝓪𝓓 𝓫𝓲𝓰",
+      "language": "English",
+      "categories": ["Fitness", "Journey", "Transformation"],
+      "keywords": ["fitness", "journey", "transforming", "myself", "work", "hard", "dream", "big"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_063",
+      "text": "🎶 𝓣𝓾𝓷𝓮𝓼 𝓪𝓷𝓭 𝓥𝓲𝙗𝓮𝓼 \n🎧 𝓜𝓾𝓼𝓲𝓬 𝓶𝔂 𝓮𝓼𝓬𝓪𝓹𝓮 \n🎤 𝓛𝓲ғ𝓮'𝓼 𝓼𝓸𝓾𝓷𝓭𝓽𝓻𝓪𝓬𝓴",
+      "language": "English",
+      "categories": ["Music", "Vibes", "Life"],
+      "keywords": ["tunes", "vibes", "music", "escape", "life's", "soundtrack"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_064",
+      "text": "🎨 𝓒𝓻𝓮𝓪𝓽𝓲𝓿𝓮 𝓮𝔂𝓹𝓻𝓮𝓼𝓼𝓲𝓸𝓷 \n🌈 𝓐𝓻𝓽𝓲𝓼𝓽𝓲𝓬 𝓼𝓸𝓾𝓵 \n✨ 𝓟𝓪𝓲𝓷𝓽𝓲𝓷𝓰 𝓶𝔂 𝓸𝔀𝓷 𝓭𝓻𝓮𝓪𝓶𝓼",
+      "language": "English",
+      "categories": ["Creativity", "Art", "Expression"],
+      "keywords": ["creative", "expression", "artistic", "soul", "painting", "own", "dreams"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_065",
+      "text": "📚 𝓑𝓸𝓸𝓴𝓼 & 𝓑𝓻𝓮𝔀𝓼 \n🤓 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 𝓼𝓮𝓮𝓴𝓮𝓻 \n📖 𝓛𝓲𝓿𝓲𝓷𝓰 𝓪 𝓼𝓽𝓸𝓻𝔂",
+      "language": "English",
+      "categories": ["Books", "Knowledge", "Storytelling"],
+      "keywords": ["books", "brews", "knowledge", "seeker", "living", "story"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_066",
+      "text": "☕ 𝓒𝓸𝓯𝒻𝓮𝓮&a𝓷𝓭 𝓬𝓸𝓷𝒇𝓲𝓭𝓮𝓷𝓬𝓮 \n🌞 𝓖𝓸𝓸𝓭 𝓶𝓸𝓻𝓷𝓲𝓷𝓰 𝓿𝓲𝙗𝓮𝓼 \n😊 𝓢𝓽𝓪𝓻𝓽𝓲𝓷𝓰 𝓮𝓿𝓮𝓻𝔂 𝓭𝓪𝔂 𝔀𝓲𝓽𝓱 𝓪 𝓼𝓶𝓲𝓵𝓮",
+      "language": "English",
+      "categories": ["Coffee", "Confidence", "Positivity"],
+      "keywords": ["coffee", "confidence", "good", "morning", "vibes", "starting", "every", "day", "smile"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_067",
+      "text": "🌿 𝓝𝓪𝓽𝓾𝓻𝓮'𝓼 𝓬𝓱𝓲𝓵𝓭 \n🌲 𝓔𝔁𝓹𝓵𝓸𝓻𝓲𝓷𝓰 𝔀𝓲𝓵𝓭𝓮𝓻𝓷𝓮𝓼𝓼 \n🌸 𝓑𝓵𝓸𝓸𝓶𝓲𝓷𝓰 𝔀𝓱𝓮𝓻 𝓘'𝓶 𝓹𝓵𝓪𝓷𝓽𝓮𝓭",
+      "language": "English",
+      "categories": ["Nature", "Exploration", "Growth"],
+      "keywords": ["nature's", "child", "exploring", "wilderness", "blooming", "planted"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_068",
+      "text": "🍕 𝓕𝓸𝓸𝓭 𝓲ıs 𝓶𝔂 𝓵𝓸𝓿𝓮 𝓵𝓪𝓷𝓰𝓪𝓾𝓪𝓰𝓮 \n🍔 𝓔𝓪𝓽, 𝓭𝓻𝓲𝓷𝓴, 𝓪𝓷𝓭 𝓫𝓮 𝓶𝓮𝓻𝓻𝔂 \n😋 𝓒𝓾𝓵𝓲𝓷𝓪𝓻𝔂 𝓪𝓭𝓿𝓮𝓷𝓽𝓾𝓻𝓮𝓼",
+      "language": "English",
+      "categories": ["Food", "Love", "Culinary"],
+      "keywords": ["food", "love", "language", "eat", "drink", "merry", "culinary", "adventures"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_069",
+      "text": "📸 𝓒𝓵𝓲𝓬𝓴𝓲𝓷𝓰 𝓪𝔀𝓪𝔂 \n🎞️ 𝓜𝓸𝓶𝓮𝓷𝓽𝓼 𝓬𝓪𝓹𝓽𝓾𝓻𝓮𝓭 \n✨ 𝓟𝓱𝓸𝓽𝓸𝓰𝓻𝓪𝓹𝓱𝔂 𝓵𝓸𝓿𝓮",
+      "language": "English",
+      "categories": ["Photography", "Moments", "Love"],
+      "keywords": ["clicking", "away", "moments", "captured", "photography", "love"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_070",
+      "text": "🧘‍♀️ 𝓨𝓸𝓰𝓪 𝓪𝓷𝓭 𝓩𝓮𝓷 \n🌸 𝓕𝓲𝓷𝓭𝓲𝓷𝓰 𝓶𝔂 𝓬𝓮𝓷𝓽𝓮𝓻 \n💖 𝓑𝓪𝓵𝓪𝓷𝓬𝓮𝓭 𝓵𝓲𝓯𝓮",
+      "language": "English",
+      "categories": ["Yoga", "Zen", "Balance"],
+      "keywords": ["yoga", "zen", "finding", "center", "balanced", "life"],
+      "gender": "Female"
+    },
+    {
+      "id": "cool_bio_071",
+      "text": "🐾 𝓟𝓮𝓽 𝓹𝓪𝓻𝓮𝓷𝓽 \n🐶 𝓕𝓾𝓻𝓻𝔂 𝓯𝓻𝓲𝓮𝓷𝓭𝓼 \n❤️ 𝓛𝓸𝓿𝓮 𝓶𝔂 𝓪𝓷𝓲𝓶𝓪𝓵𝓼",
+      "language": "English",
+      "categories": ["Pets", "Parenting", "Love"],
+      "keywords": ["pet", "parent", "furry", "friends", "love", "animals"],
+      "gender": "Female"
+    },
+    {
+      "id": "cool_bio_072",
+      "text": "🌙 𝓓𝓻𝓮𝓪𝓶𝓼 𝓪𝓷𝓭 𝓼𝓽𝓪𝓻𝓼 \n💫 𝓝𝓲𝓰𝓱𝓽 𝓸𝔀𝓵 \n✨ 𝓒𝓻𝓮𝓪𝓽𝓲𝓷𝓰 𝓶𝔂 𝓸𝔀𝓷 𝓶𝓪𝓰𝓲𝓬",
+      "language": "English",
+      "categories": ["Dreams", "Night", "Magic"],
+      "keywords": ["dreams", "stars", "night", "owl", "creating", "own", "magic"],
+      "gender": "Female"
+    },
+    {
+      "id": "cool_bio_073",
+      "text": "🎮 𝓖𝓪𝓶𝓮𝓻 𝓵𝓲𝓯𝓮 \n🏆 𝓒𝓸𝓷𝓺𝓾𝓮𝓻𝓲𝓷𝓰 𝓭𝓲𝓰𝓲𝓽𝓪𝓵 𝔀𝓸𝓻𝓵𝓭𝓼 \n🚀 𝓡𝓮𝓪𝓬𝓱𝓲𝓷𝓰 𝓷𝓮𝔀 𝓷𝓮𝓿𝓮𝓵𝓼",
+      "language": "English",
+      "categories": ["Gaming", "Achievement", "Levels"],
+      "keywords": ["gamer", "life", "conquering", "digital", "worlds", "reaching", "new", "levels"],
+      "gender": "Female"
+    },
+    {
+      "id": "cool_bio_074",
+      "text": "💙 𝓡𝓲𝓭𝓮𝓻 𝓥𝓲𝙗𝓮𝓼 \n🏍️ 𝓛𝓲𝓕𝓮 𝓸𝓷 𝓽𝔀𝓸 𝔀heels \n💨 𝓢𝓹𝓮𝓮𝓭 𝓽𝓱𝓻𝓲𝓵𝓵𝓼",
+      "language": "English",
+      "categories": ["Riding", "Lifestyle", "Speed"],
+      "keywords": ["rider", "vibes", "life", "two", "wheels", "speed", "thrills"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_075",
+      "text": "👊 𝓕𝓲𝓰𝓱𝓽𝓮𝓻 𝓼𝓹𝓲𝓻𝓲𝓽 \n🥊 𝓤𝓷𝓼𝓽𝓸CppObject 𝓢𝓽𝓻𝓸𝓷𝓰𝓮𝓻 𝓽𝓱𝓪𝓷 𝔂𝓮𝓼𝓽𝓮𝓻𝓭𝓪𝔂",
+      "language": "English",
+      "categories": ["Fighter", "Spirit", "Strength"],
+      "keywords": ["fighter", "spirit", "unstoppable", "stronger", "yesterday"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_076",
+      "text": "🎂 𝓑𝓲𝓻𝓽𝓱𝓭𝓪𝔂 𝓬𝓮𝓵𝓮𝓫𝓻𝓪𝓽𝓲𝓸𝓷𝓼 \n🎉 𝓛𝓲𝓕𝓮 𝓲ıs 𝓪 𝓹𝓪𝓻𝓽𝔂 \n🥳 𝓔𝓷𝓳𝓸𝔂𝓲𝓷𝓰 𝓮𝓿𝓮𝓻𝔂 𝓶𝓸𝓶𝓮𝓷𝓽",
+      "language": "English",
+      "categories": ["Birthday", "Celebration", "Life"],
+      "keywords": ["birthday", "celebrations", "life", "party", "enjoying", "every", "moment"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_077",
+      "text": "🌟 𝓢𝓱𝓲𝓷𝓮 𝓫𝓻𝓲𝓰𝓱𝓽 \n✨ 𝓖𝓵𝓲𝓽𝓽𝓮𝓻 𝓪𝓷𝓭 𝓰𝓵𝓪𝓶 \n💖 𝓞𝔀𝓷𝓲𝓷𝓰 𝓶𝔂 𝓼𝓹𝓪𝓬𝓮",
+      "language": "English",
+      "categories": ["Shine", "Glitter", "Space"],
+      "keywords": ["shine", "bright", "glitter", "glam", "owning", "space"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_078",
+      "text": "💎 𝓤𝓷𝓲𝓺𝓾𝓮 𝓪𝓷𝓭 𝓞𝓻𝓲𝓰𝓲𝓷𝓪𝓵 \n👑 𝓐𝓾𝓽𝓱𝓮𝓷𝓽𝓲𝓬𝓲𝓽𝔂 𝓲ıs 𝓴𝓮𝔂 \n😎 𝓓𝓮𝓯𝔂𝓲𝓷𝓰 𝓷𝓸𝓻𝓶𝓼",
+      "language": "English",
+      "categories": ["Uniqueness", "Authenticity", "Originality"],
+      "keywords": ["unique", "original", "authenticity", "key", "defying", "norms"],
+      "gender": "Female"
+    },
+    {
+      "id": "cool_bio_079",
+      "text": "🎭 𝓓𝓻𝓪𝓶𝓪𝓽𝓲𝓬 𝓪𝓷𝓭 𝓕𝓪𝓫𝓾𝓵𝓸𝓾𝓼 \n🎬 𝓛𝓲𝓕𝓮 𝓲ıs 𝓪 𝓼𝓽𝓪𝓰𝓮 \n🌟 𝓐𝓬𝓽𝓲𝓷𝓰 𝓶𝔂 𝓹𝓪𝓻𝓽",
+      "language": "English",
+      "categories": ["Dramatic", "Fabulous", "Life"],
+      "keywords": ["dramatic", "fabulous", "life", "stage", "acting", "part"],
+      "gender": "Female"
+    },
+    {
+      "id": "cool_bio_080",
+      "text": "🍀 𝓒𝓱𝓪𝓼𝓲𝓷𝓰 𝓵𝓾𝓬𝓴 \n🌈 𝓕𝓲𝓷𝓭𝓲𝓷𝓰 𝓻𝓪𝓲𝓷𝓫𝓸𝔀𝓼 \n😊 𝓟𝓸𝓼𝓲𝓽𝓲𝓿𝓮 𝓮𝓷𝓮𝓻𝓰𝔂",
+      "language": "English",
+      "categories": ["Luck", "Rainbows", "Positivity"],
+      "keywords": ["chasing", "luck", "finding", "rainbows", "positive", "energy"],
+      "gender": "Female"
+    },
+    {
+      "id": "cool_bio_081",
+      "text": "⚡ 𝓔𝓵𝓮𝓬𝓽𝓻𝓲𝓬 𝓥𝓲𝙗𝓮𝓼 \n💪 𝓕𝓾𝓵𝓵 𝓸𝓯 𝓵𝓲𝓕𝓮 \n🚀 𝓞𝓷 𝓽𝓱𝓮 𝓰𝓸",
+      "language": "English",
+      "categories": ["Electric", "Vibes", "Energy"],
+      "keywords": ["electric", "vibes", "full", "life", "go"],
+      "gender": "Female"
+    },
+    {
+      "id": "cool_bio_082",
+      "text": "🌌 𝓒𝓸𝓼𝓶𝓲𝓬 𝓣𝓻𝓪𝓿𝓮𝓵𝓮𝓻 \n✨ 𝓤𝓷𝓭𝓮𝓻 𝓽𝓱𝓮 𝓼𝓽𝓪𝓻𝓼 \n💫 𝓔𝔁𝓹𝓵𝓸𝓻𝓲𝓷𝓰 𝓽𝓱𝓮 𝓾𝓷𝓲𝓿𝓮𝓻𝓼𝓮",
+      "language": "English",
+      "categories": ["Cosmic", "Travel", "Universe"],
+      "keywords": ["cosmic", "traveler", "under", "stars", "exploring", "universe"],
+      "gender": "Female"
+    },
+    {
+      "id": "cool_bio_083",
+      "text": "🍃 𝓡𝓮𝓯𝓻𝓮𝓼𝓱𝓲𝓷𝓰 𝓼𝓸𝓾𝓵 \n🦋 𝓒𝓱𝓪𝓷𝓰𝓲𝓷𝓰 𝓪𝓷𝓭 𝓰𝓻𝓸𝔀𝓲𝓷𝓰 \n💖 𝓕𝓻𝓮𝓮 𝓪𝓼 𝓪 𝓫𝓾𝓽𝓽𝓮𝓻𝓯𝓵𝔂",
+      "language": "English",
+      "categories": ["Refreshing", "Change", "Growth"],
+      "keywords": ["refreshing", "soul", "changing", "growing", "free", "butterfly"],
+      "gender": "Female"
+    },
+    {
+      "id": "cool_bio_084",
+      "text": "💡 𝓘𝓷𝓷𝓸𝓿𝓪𝓽𝓲𝓸𝓷 𝓲ıs 𝓶𝔂 𝓰𝓪𝔁𝓮 \n🧠 𝓑𝓻𝓪𝓲𝓷𝓼 𝓪𝓷𝓭 𝓑𝓮𝓪𝓾𝓽𝔂 \n🚀 𝓒𝓻𝓮𝓪𝓽𝓲𝓷𝓰 𝓽𝓱𝓮 𝓯𝓾𝓽𝓾𝓻𝓮",
+      "language": "English",
+      "categories": ["Innovation", "Brains", "Future"],
+      "keywords": ["innovation", "gaze", "brains", "beauty", "creating", "future"],
+      "gender": "Female"
+    },
+    {
+      "id": "cool_bio_085",
+      "text": "🍩 𝓓𝓸𝓷𝓾𝓽𝓼 𝓪𝓷𝓭 𝓓𝓻𝓮𝓪𝓶𝓼 \n🍰 𝓢𝔀𝓮𝓮𝓽 𝓽𝓻𝓮𝓪𝓽𝓼 \n😋 𝓔𝓷𝓳𝓸𝔂𝓲𝓷𝓰 𝓮𝓿𝓮𝓻𝔂 𝓼𝓲𝓷𝓰𝓵𝓮 𝓫𝓲𝓽𝓮",
+      "language": "English",
+      "categories": ["Food", "Dreams", "Sweet"],
+      "keywords": ["donuts", "dreams", "sweet", "treats", "enjoying", "every", "single", "bite"],
+      "gender": "Female"
+    },
+    {
+      "id": "cool_bio_086",
+      "text": "🎤 𝓢𝓲𝓷𝓰 𝔂𝓸𝓾𝓻 𝓸𝔀𝓷 𝓼𝓸𝓷𝓰 \n🎵 𝓣𝓾𝓷𝓮 𝓲𝓷𝓽𝓸 𝓵𝓲𝓕𝓮 \n🎶 𝓗𝓪𝓻𝓶𝓸𝓷𝔂 𝓪𝓷𝓭 𝓱𝓪𝓹𝓹𝓲𝓷𝓮𝓼𝓼",
+      "language": "English",
+      "categories": ["Singing", "Music", "Harmony"],
+      "keywords": ["sing", "own", "song", "tune", "life", "harmony", "happiness"],
+      "gender": "Female"
+    },
+    {
+      "id": "cool_bio_087",
+      "text": "🎨 𝓜𝔂 𝓵𝓲𝓕𝓮 𝓲ıs 𝓶𝔂 𝓬𝓪𝓷𝓿𝓪𝓼 \n🖌️ 𝓔𝔁𝓹𝓻𝓮𝓼𝓼𝓲𝓸𝓷𝓲𝓷𝓰 𝓶𝔂𝓼𝓮𝓵𝓯 \n🌈 𝓐𝓻𝓽 𝓲ıs 𝓵𝓲𝓕𝓮",
+      "language": "English",
+      "categories": ["Art", "Life", "Expression"],
+      "keywords": ["life", "canvas", "expressing", "myself", "art", "life"],
+      "gender": "Female"
+    },
+    {
+      "id": "cool_bio_088",
+      "text": "💻 𝓒𝓸𝓭𝓮𝓻 𝓪𝓷𝓭 𝓒𝓻𝓮𝓪𝓽𝓸𝓻 \n📱 𝓓𝓲𝓰𝓲𝓽𝓪𝓵 𝔀𝓸𝓻𝓵𝓭 \n🌐 𝓒𝓸𝓷𝓷𝓮𝓬𝓽𝓮𝓭 𝓽𝓸 𝓽𝓱𝓮 𝓾𝓷𝓲𝓿𝓮𝓻𝓼𝓮",
+      "language": "English",
+      "categories": ["Coding", "Creation", "Digital"],
+      "keywords": ["coder", "creator", "digital", "world", "connected", "universe"],
+      "gender": "Female"
+    },
+    {
+      "id": "cool_bio_089",
+      "text": "📸 ᴘʜᴏᴛᴏɢʀᴀᴘʜʏ ɪs ᴍʏ ᴀʀᴛ \n✨ ᴄᴀᴘᴛᴜʀɪɴɢ ᴛʜᴇ ᴍᴏᴍᴇɴᴛ \n💖 ʟɪғᴇ's ʙᴇᴀᴜᴛʏ ɪɴ ғʀᴀᴍᴇ",
+      "language": "English",
+      "categories": ["Photography", "Art", "Beauty"],
+      "keywords": ["photography", "art", "capturing", "moment", "life's", "beauty", "frame"],
+      "gender": "Female"
+    },
+    {
+      "id": "cool_bio_090",
+      "text": "👑 𝓚𝓲𝓷𝓰 𝔀𝓲𝓽𝓱 𝓪 𝓬𝓻𝓸𝔀𝓷 \n💯 𝓐𝓽𝓽𝓲𝓽𝓾𝓭𝓮 𝓪𝓷𝓭 𝓪𝓶𝓫𝓲𝓽𝓲𝓸𝓷 \n😎 𝓡𝓾𝓵𝓲𝓷𝓰 𝓶𝔂 𝔀𝓸𝓻𝓵𝓭",
+      "language": "English",
+      "categories": ["Royalty", "Attitude", "Ambition"],
+      "keywords": ["king", "crown", "attitude", "ambition", "ruling", "world"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_091",
+      "text": "🚀 𝓐𝓭𝓿𝓮𝓷𝓽𝓾𝓻𝓮 𝓼𝓮𝓮𝓀𝓮𝓻 \n🌍 𝓦𝓸𝓻𝓵𝓭 𝓽𝓻𝓪𝓿𝓮𝓵𝓮𝓻 \n🗺️ 𝓙𝓸𝓾𝓻𝓷𝓮𝔂 𝓸𝓯 𝓪 𝓵𝓲ғ𝓮𝓽𝓲𝓶𝓮",
+      "language": "English",
+      "categories": ["Adventure", "Travel", "Journey"],
+      "keywords": ["adventure", "seeker", "world", "traveler", "journey", "lifestyle"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_092",
+      "text": "💪 𝓕𝓲𝓽𝓷𝓮𝓼𝓼 𝓵𝓲𝓯𝓮𝓼𝓽𝔂 гл\n🏋️‍♀️ 𝓢𝓽𝓻𝓮𝓷𝓰𝓽𝓱 𝓪𝓷𝓭 𝓹𝓸𝔀𝓮𝓻 \n🔥 𝓓𝓮𝓭𝓲𝓬𝓪𝓽𝓮𝓭 𝓪𝓷𝓭 𝓭𝓻𝓲𝓿𝓮𝓷",
+      "language": "English",
+      "categories": ["Fitness", "Strength", "Dedication"],
+      "keywords": ["fitness", "lifestyle", "strength", "power", "dedicated", "driven"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_093",
+      "text": "🎶 𝓣𝓾𝓷𝓮𝓼 𝓽𝓱𝓪𝓽 𝓼𝓹𝓮𝓪𝓴 \n🎧 𝓜𝓾𝓼𝓲𝓬 𝓶𝔂 𝓼𝓸𝓾𝓵𝓶𝓪𝓽𝓮 \n🎤 𝓢𝓲𝓷𝓰𝓲𝓷𝓰 𝓶𝔂 𝓱𝓮𝓪𝓻𝓽 𝓸𝓾𝓽",
+      "language": "English",
+      "categories": ["Music", "Tunes", "Expression"],
+      "keywords": ["tunes", "speak", "music", "soulmate", "singing", "heart", "out"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_094",
+      "text": "🎨 𝓒𝓻𝓮𝓪𝓽𝓲𝓿𝓮 𝓶𝓲𝓷𝓭 \n🌈 𝓐𝓻𝓽 𝓲𝓷 𝓮𝓿𝓮𝓻𝔂𝓽𝓱𝓲𝓷𝒈 \n✨ 𝓘𝓶𝓪𝓰𝓲𝓷𝓪𝓽𝓲𝓸𝓷 𝓻𝓾𝓷𝓼 𝔀𝓲𝓵𝓭",
+      "language": "English",
+      "categories": ["Creativity", "Art", "Imagination"],
+      "keywords": ["creative", "mind", "art", "everything", "imagination", "runs", "wild"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_095",
+      "text": "📚 𝓑𝓸𝓸𝓴 𝓷𝓮𝓻𝓭 \n🤓 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 𝓲ıs 𝓶𝔂 𝓼𝓾𝓹𝓮𝓻𝓹𝓸𝔀𝓮𝓻 \n📖 𝓔𝔁𝓹𝓵𝓸𝓻𝓲𝓷𝓰 𝔀𝓸𝓻𝓵𝓭𝓼 𝓽𝓱𝓻𝓸𝓾𝓰𝓱 𝔀𝓸𝓻𝓭𝓼",
+      "language": "English",
+      "categories": ["Books", "Knowledge", "Exploration"],
+      "keywords": ["book", "nerd", "knowledge", "superpower", "exploring", "worlds", "through", "words"],
+      "gender": "Unisex"
+    },
+    {
+      "id": "cool_bio_096",
+      "text": "☕ 𝓒𝓸𝓯𝒻𝓮𝑒 & 𝒞𝒽𝒾�\n🌞 𝓢𝓾𝓷𝓼𝓱𝓲𝓷𝓮 𝓪𝓷𝓭 𝓼𝓶𝓲𝓵𝓮𝓼 \n😊 𝓛𝓲 vít𝓮 𝓶𝔂 𝓫𝓮𝓼𝓽 𝓵𝓲𝓕𝓮",
+      "language": "English",
+      "categories": ["Coffee", "Relaxation", "Positivity"],
+      "keywords": ["coffee", "chill", "sunshine", "smiles", "living", "best", "life"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_097",
+      "text": "🌿 𝓝𝓪𝓽𝓾𝓻𝓮'𝓼 𝓫𝓵𝓲𝓼𝓼 \n🌲 𝓞𝓾𝓽𝓭𝓸𝓸𝓻 𝓪𝓭𝓿𝓮𝓷𝓽𝓾𝓻𝓮𝓼 \n🌸 𝓕𝓲𝓷𝓭𝓲𝓷𝓰 𝓹𝓮𝓪𝓬𝓮 𝓲𝓷 𝓽𝓱𝓮 𝔀𝓲𝓵𝓭",
+      "language": "English",
+      "categories": ["Nature", "Adventure", "Peace"],
+      "keywords": ["nature's", "bliss", "outdoor", "adventures", "finding", "peace", "wild"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_098",
+      "text": "🍕 𝓕𝓸𝓸𝓭𝓲𝓮 𝓳𝓸𝓾𝓻𝓷𝓮𝔂 \n🍔 𝓣𝓪𝓼𝓽𝓲𝓷𝓰 𝓵𝓲𝓕𝓮 \n😋 𝓔𝓷𝓳𝓸𝔂𝓲𝓷𝓰 𝓮𝓿𝓮𝓻𝔂 𝓫𝓲𝓽𝓮",
+      "language": "English",
+      "categories": ["Food", "Journey", "Enjoyment"],
+      "keywords": ["foodie", "journey", "tasting", "life", "enjoying", "every", "bite"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_099",
+      "text": "📸 𝓒𝓵𝓲𝓬𝓴𝓼 𝓪𝓷𝓭 𝓶𝓮𝓶𝓸𝓻𝓲𝓮𝓼 \n🎞️ 𝓛𝓲𝓕𝓮 𝓽𝓱𝓻𝓸𝓾𝓰𝓱 𝓽𝓱𝓮 𝓵𝓮𝓷𝓼 \n✨ 𝓔𝓿𝓮𝓻𝔂 𝓹𝓲𝓬𝓽𝓾𝓻𝓮 𝓽𝓮𝓵𝓵𝓼 𝓪 𝓼𝓽𝓸𝓻𝔂",
+      "language": "English",
+      "categories": ["Photography", "Memories", "Storytelling"],
+      "keywords": ["clicks", "memories", "life", "lens", "every", "picture", "tells", "story"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_100",
+      "text": "🧘‍♀️ 𝓨𝓸𝓰𝓲 𝓵𝓲𝓕𝓮 \n🌸 𝓒𝓪𝓵𝓶 𝓪𝓷𝓭 𝓬𝓸𝓵𝓵𝓮𝓬𝓽𝓮𝓭 \n💖 𝓣𝓻𝓪𝓷𝓺𝓾𝓲𝓵 𝓼𝓸𝓾𝓵",
+      "language": "English",
+      "categories": ["Yoga", "Calm", "Tranquility"],
+      "keywords": ["yogi", "life", "calm", "collected", "tranquil", "soul"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_101",
+      "text": "🐾 𝓟𝓮𝓽 𝓵𝓸𝓿𝓮𝓻 \n🐶 𝓜𝔂 𝓯𝓾𝓻𝓻𝔂 𝓫𝓮𝓼𝓽 𝓯𝓻𝓲𝓮𝓷𝓭 \n❤️ 𝓤𝓷𝓬𝓸𝓷𝓭𝓲𝓽𝓲𝓸𝓷𝓪𝓵 𝓵𝓸𝓿𝓮",
+      "language": "English",
+      "categories": ["Pets", "Love", "Friendship"],
+      "keywords": ["pet", "lover", "furry", "best", "friend", "unconditional", "love"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_102",
+      "text": "🌙 𝓝𝓲𝓰𝓱𝓽 𝓼𝓴𝔂 𝓭𝓻𝓮𝓪𝓶𝓮𝓻 \n💫 𝓢𝓽𝓪𝓻𝓰𝓪𝔃𝓲𝓷𝓰 \n✨ 𝓜𝓪𝓴𝓲𝓷𝓰 𝔀𝓲𝓼𝓱𝓮𝓼",
+      "language": "English",
+      "categories": ["Night", "Dreams", "Wishes"],
+      "keywords": ["night", "sky", "dreamer", "stargazing", "making", "wishes"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_103",
+      "text": "🎮 𝓥𝓲𝓭𝓮𝓸 𝓰𝓪𝓶𝓮 𝓪𝓭𝓭𝓲𝓬𝓽 \n🏆 𝓖𝓪𝓶𝓮𝓻 𝓵𝓮𝓰𝓮𝓷𝓭 \n🚀 𝓡𝓮𝓪𝓬𝓱𝓲𝓷𝓰 𝓷𝓮𝔀 𝓱𝓮𝓲𝓰𝓱𝓽𝓼",
+      "language": "English",
+      "categories": ["Gaming", "Achievement", "Progress"],
+      "keywords": ["video", "game", "addict", "gamer", "legend", "reaching", "new", "heights"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_104",
+      "text": "💙 𝓡𝓲𝓭𝓮 𝓪𝓵𝓸𝓷𝓰 \n🏍️ 𝓣𝔀𝓸 𝔀heels, 𝓸𝓷𝓮 𝓵𝓸𝓿𝓮 \n💨 𝓕𝓮𝓮𝓵𝓲𝓷𝓰 𝓽𝓱𝓮 𝔀𝓲𝓷𝓭",
+      "language": "English",
+      "categories": ["Riding", "Love", "Freedom"],
+      "keywords": ["ride", "along", "two", "wheels", "one", "love", "feeling", "wind"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_105",
+      "text": "👊 𝓦𝓸𝓻𝓴𝓸𝓾𝓽 𝔀𝓪𝓻𝓻𝓲𝓸𝓻 \n🥊 𝓑𝓮𝓪𝓼𝓽 𝓶𝓸𝓭𝓮 \n💪 𝓕𝓲𝓽𝓷𝓮𝓼𝓼 𝓲ıs 𝓪 𝓬𝓱𝓸𝓲𝓬𝓮",
+      "language": "English",
+      "categories": ["Fitness", "Workout", "Choice"],
+      "keywords": ["workout", "warrior", "beast", "mode", "fitness", "choice"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_106",
+      "text": "🎂 𝓑𝓲𝓻𝓽𝓱𝓭𝓪𝔂 𝓶𝓸𝓷𝓽𝓱 \n🎉 𝓒𝓮𝓵𝓮𝒷𝓻𝓪𝓽𝓲𝓷𝓰 𝓮𝓿𝓮𝓻𝔂 𝓶𝓸𝓶𝓮𝓷𝓽 \n🥳 𝓛𝓲𝓕𝓮 𝓲ıs 𝓪 𝓰𝓲𝓯𝓽",
+      "language": "English",
+      "categories": ["Birthday", "Celebration", "Life"],
+      "keywords": ["birthday", "month", "celebrating", "every", "moment", "life", "gift"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_107",
+      "text": "🌟 𝓢𝓱𝓲𝓷𝓮 𝔂𝓸𝓾𝓻 𝓵𝓲𝓰𝓱𝓽 \n✨ 𝓨𝓸𝓾 𝓪𝓻𝓮 𝓰𝓸𝓵𝓭 \n💖 𝓖𝓵𝓸𝔀 𝓾𝓹",
+      "language": "English",
+      "categories": ["Shine", "Value", "Growth"],
+      "keywords": ["shine", "light", "you", "are", "gold", "glow", "up"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_108",
+      "text": "💎 𝓡𝓪𝓻𝓮 𝓪𝓷𝓭 𝓻𝓪𝓭𝓲𝓪𝓷𝓽 \n👑 𝓤𝓷𝓲𝓺𝓾𝓮𝓵𝔂 𝓶𝓮 \n😎 𝓞𝓻𝓲𝓰𝓲𝓷𝓪𝓵 𝓼𝓸𝓾𝓵",
+      "language": "English",
+      "categories": ["Rarity", "Uniqueness", "Originality"],
+      "keywords": ["rare", "radiant", "uniquely", "me", "original", "soul"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_109",
+      "text": "🎭 𝓓𝓻𝓪𝓶𝓪 𝓯𝓻𝓮𝓮 𝔃𝓸𝓷𝓮 \n🎬 𝓛𝓲𝓕𝓮'𝓼 𝓪 𝓶𝓸𝓿𝓲𝓮 \n🌟 𝓢𝓽𝓪𝓻𝓻𝓲𝓷𝓰 𝓶𝔂𝓼𝓮𝓵𝓯",
+      "language": "English",
+      "categories": ["Drama", "Life", "Stardom"],
+      "keywords": ["drama", "free", "zone", "life's", "movie", "starring", "myself"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_110",
+      "text": "🍀 𝓕𝓮𝓮𝓵𝓲𝓷𝓰 𝓵𝓾𝓬𝓴𝔂 \n🌈 𝓕𝓸𝓵𝓵𝓸𝔀 𝓽𝓱𝓮 𝓻𝓪𝓲𝓷𝓫𝓸𝔀 \n😊 𝓗𝓪𝓹𝓹𝔂 𝓿𝓲𝙗𝓮𝓼",
+      "language": "English",
+      "categories": ["Luck", "Rainbows", "Happiness"],
+      "keywords": ["feeling", "lucky", "follow", "rainbow", "happy", "vibes"],
+      "gender": "Male"
+    },
+    {
+      "id": "cool_bio_111",
+      "text": "⚡ 𝓔𝓵𝓮𝓬𝓽𝓻𝓲𝓬 𝓮𝓷𝓮𝓻𝓰𝔂 \n💪 𝓟𝓸𝔀𝓮𝓻𝓱𝓸𝓾𝓼𝓮 \n🚀 𝓤𝓷𝓼𝓽𝓸CppObject 𝓯𝓸𝓻𝓬𝓮",
+      "language": "English",
+      "categories": ["Energy", "Power", "Strength"],
+      "keywords": ["electric", "energy", "powerhouse", "unstoppable", "force"],
+      "gender": "Male"
+    }
+  ]
+}
