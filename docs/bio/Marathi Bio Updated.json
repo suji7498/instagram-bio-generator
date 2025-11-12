@@ -1,0 +1,340 @@
+{
+  "instagramBios": [
+    {
+      "id": "marathi_bio_001",
+      "text": "😎मी मावळा, Attitude खाजगी🚩\n😊आईचा लाडका, मित्रांचा भाऊ👥\n🤟Single but दिलखुलास🤟\n🎂Wish me on 10 Sept🎂\n#NoLimits #SwagOn",
+      "language": "Marathi",
+      "categories": ["Attitude", "Single", "Swag", "Marathi", "Male", "Maratha", "Birthday"],
+      "keywords": ["मावळा", "Attitude", "खाजगी", "आईचा लाडका", "Single", "दिलखुलास", "10 Sept", "NoLimits", "SwagOn"],
+      "gender": "Male"
+    },
+    {
+      "id": "marathi_bio_002",
+      "text": "@प्रणवपाटील\n🙏जय शिवराय🙏\n🚩मराठी रूबाब🚩\n#Photography📷😍 #MusicLover🎧\n💯Respect Girls💯\n♨️Hate Me या Date Me♨️",
+      "language": "Marathi",
+      "categories": ["Maratha", "Photography", "Music", "Respect", "Attitude", "Marathi", "Male"],
+      "keywords": ["प्रणवपाटील", "जय शिवराय", "मराठी रूबाब", "Photography", "MusicLover", "Respect Girls", "Hate Me", "Date Me"],
+      "gender": "Male"
+    },
+    {
+      "id": "marathi_bio_003",
+      "text": "कुल-हिंदु👑\nरुबाब-96K मराठा💪\nशान-भगवा झेंडा🚩\nदैवत-छत्रपती शिवाजी महाराज🙏\nजनम- 25/03/2000🎂\n#ProudMaratha",
+      "language": "Marathi",
+      "categories": ["Maratha", "Proud", "Hindu", "Royal", "Attitude", "Marathi", "Male", "Birthday"],
+      "keywords": ["कुल-हिंदु", "96K मराठा", "भगवा झेंडा", "छत्रपती शिवाजी महाराज", "ProudMaratha"],
+      "gender": "Male"
+    },
+    {
+      "id": "marathi_bio_004",
+      "text": "mr. DESAI 🙏\n🚩Jay Bhavani🚩\nBeing Human💪\nMH 12 पुणेकर🔥😎\nDie-hard fan of Ranveer😉\nBday 21May🎂\nA+ve🤗",
+      "language": "Marathi",
+      "categories": ["Maratha", "Attitude", "Punekar", "Fan", "Marathi", "Male", "Birthday"],
+      "keywords": ["mr. DESAI", "Jay Bhavani", "Being Human", "MH 12 पुणेकर", "Ranveer", "21May", "A+ve"],
+      "gender": "Male"
+    },
+    {
+      "id": "marathi_bio_005",
+      "text": "👑Grand_Entry_15June\n😎नाद_bike_रायडिंगचा\n❤️Dog_Lover🐕\n#singleButHappy😂\n#AttitudeOverdose💯\n#MusicAddict🎧\n👑जय_श्री_राम\n⏩DM_ForCollab",
+      "language": "Mixed (Marathi/English)",
+      "categories": ["Bike Riding", "Dog Lover", "Single", "Attitude", "Music", "Male", "Birthday", "Collaboration"],
+      "keywords": ["Grand_Entry", "15June", "नाद_bike_रायडिंगचा", "Dog_Lover", "singleButHappy", "AttitudeOverdose", "MusicAddict", "जय_श्री_राम", "DM_ForCollab"],
+      "gender": "Male"
+    },
+    {
+      "id": "marathi_bio_006",
+      "text": "🚩महाराष्ट्राची Shaan🚩\n🔥रुबाबदार मराठी मुलगा🔥\n“छत्रपतींची प्रेरणा, आमची शान”\n⏩MH 19 जळगावकर⏪\nBday On 12 Nov🎂\n#RoyalMaratha",
+      "language": "Marathi",
+      "categories": ["Maratha", "Royal", "Attitude", "Marathi", "Male", "Birthday"],
+      "keywords": ["महाराष्ट्राची Shaan", "रुबाबदार", "मराठी मुलगा", "छत्रपतींची प्रेरणा", "आमची शान", "MH 19 जळगावकर", "RoyalMaratha"],
+      "gender": "Male"
+    },
+    {
+      "id": "marathi_bio_007",
+      "text": "♧😎आम्ही पाटील👨🏻‍🎨♧\nशांततेत जगतो, पण\nवाघासारखी शिकार करतो!🏠Kolhapur MH-09\n#मराठीपण #आनबाणशान",
+      "language": "Marathi",
+      "categories": ["Attitude", "Maratha", "Marathi", "Male", "Kolhapur"],
+      "keywords": ["आम्ही पाटील", "शांतता", "वाघासारखी", "शिकार", "Kolhapur", "मराठीपण", "आनबाणशान"],
+      "gender": "Male"
+    },
+    {
+      "id": "marathi_bio_008",
+      "text": "👑Maharashtrian👑\n🔶स्वछंदी Punekar🔸\n🔥मराठी पोरगा🔥\n👿भिक नको शान हवी👿\n#Cakecut on 15Jan\n#GymAddict #MusicMania",
+      "language": "Marathi",
+      "categories": ["Attitude", "Punekar", "Marathi", "Male", "Gym", "Music", "Birthday"],
+      "keywords": ["Maharashtrian", "स्वछंदी Punekar", "मराठी पोरगा", "भिक नको शान हवी", "Cakecut", "GymAddict", "MusicMania"],
+      "gender": "Male"
+    },
+    {
+      "id": "marathi_bio_009",
+      "text": "👑Royal_Instagramer👑\nभिडायचं तर हिम्मत हवी\nढाण्या वाघाचं रक्त आहे\n#FitnessFreak #Photography📸\n#नाद फक्त भगव्याचा🔥",
+      "language": "Marathi",
+      "categories": ["Royal", "Attitude", "Fitness", "Photography", "Maratha", "Marathi", "Male"],
+      "keywords": ["Royal_Instagramer", "हिम्मत", "वाघाचं रक्त", "FitnessFreak", "Photography", "नाद", "भगव्याचा"],
+      "gender": "Male"
+    },
+    {
+      "id": "marathi_bio_010",
+      "text": "मी मराठी मुलगा ⚔️\nरुबाब – मराठा स्वॅग 🚩\nआयुष्य – दिलखुलास 😎\nमैत्री – जिवाभावाची ❤️\nTarget – जगभर दहशत!",
+      "language": "Marathi",
+      "categories": ["Attitude", "Maratha", "Swag", "Marathi", "Male", "Friendship"],
+      "keywords": ["मराठी मुलगा", "रुबाब", "मराठा स्वॅग", "आयुष्य", "दिलखुलास", "मैत्री", "जिवाभावाची", "जगभर दहशत"],
+      "gender": "Male"
+    },
+    {
+      "id": "marathi_bio_011",
+      "text": "🚩छत्रपतींचा मावळा🚩\n“भिक नको, शान हवी!”🎂 Wish me on 14 Feb\n🔱 #96KMaratha\n🎧 Music Lover | Single Boy",
+      "language": "Marathi",
+      "categories": ["Maratha", "Attitude", "Music", "Single", "Male", "Marathi", "Birthday"],
+      "keywords": ["छत्रपतींचा मावळा", "भिक नको", "शान हवी", "14 Feb", "96KMaratha", "Music Lover", "Single Boy"],
+      "gender": "Male"
+    },
+    {
+      "id": "marathi_bio_012",
+      "text": "बापाचा👨 डोकेदुखी, आईचा👩 लाडका\n🔥Attitude मारक, स्वभाव तारक🔥\n🏍️ Bike Riders Club\n#NoTension #SmileAlways",
+      "language": "Marathi",
+      "categories": ["Attitude", "Family", "Bike Riding", "Male", "Marathi"],
+      "keywords": ["बापाचा डोकेदुखी", "आईचा लाडका", "Attitude मारक", "स्वभाव तारक", "Bike Riders Club", "NoTension", "SmileAlways"],
+      "gender": "Male"
+    },
+    {
+      "id": "marathi_bio_013",
+      "text": "MH 12 पुणेकर 🤠\nशांततेत जगतो…\n…but दरारा कायम ठेवतो ⚡\n🏋️ #FitnessFreak | 🎉 27 Aug",
+      "language": "Marathi",
+      "categories": ["Attitude", "Punekar", "Fitness", "Male", "Marathi", "Birthday"],
+      "keywords": ["MH 12 पुणेकर", "शांतता", "दरारा", "FitnessFreak", "27 Aug"],
+      "gender": "Male"
+    },
+    {
+      "id": "marathi_bio_014",
+      "text": "शिवभक्त 🙏\n👑 96 कुळी मराठा 👑\n⚔️ “भगवा रक्त, भगवाच रंग” ⚔️\n🎂 B'day – 09 Mar\n🎶 Music ही जान, Attitude हा स्वभाव",
+      "language": "Marathi",
+      "categories": ["Maratha", "Attitude", "Music", "Male", "Marathi", "Birthday"],
+      "keywords": ["शिवभक्त", "96 कुळी मराठा", "भगवा रक्त", "भगवा रंग", "09 Mar", "Music", "Attitude"],
+      "gender": "Male"
+    },
+    {
+      "id": "marathi_bio_015",
+      "text": "नाद – फक्त फोटोशूटचा 📸\nपरोपकार – मित्रांसाठी सगळं 🍻\nप्यार – एकटाच, Single 😜\nआदर – परिवाराला 🙏\n#RoyalBoy #PuneCity",
+      "language": "Marathi",
+      "categories": ["Photography", "Friendship", "Single", "Family", "Royal", "Male", "Punekar", "Marathi"],
+      "keywords": ["फोटोशूट", "परोपकार", "मित्रांसाठी", "Single", "परिवार", "RoyalBoy", "PuneCity"],
+      "gender": "Male"
+    },
+    {
+      "id": "marathi_bio_016",
+      "text": "वाघाचं पिल्लू 🐯\nभाव – एकदम ष्टायलिश 🤩\n“जय भवानी जय शिवाजी” 🚩\n🎂 Mera Cake Day – 10 Sep\n#Gymlife #BikeLover",
+      "language": "Marathi",
+      "categories": ["Attitude", "Stylish", "Maratha", "Gym", "Bike", "Male", "Marathi", "Birthday"],
+      "keywords": ["वाघाचं पिल्लू", "ष्टायलिश", "जय भवानी जय शिवाजी", "10 Sep", "Gymlife", "BikeLover"],
+      "gender": "Male"
+    },
+    {
+      "id": "marathi_bio_017",
+      "text": "माझं नाव रॉयल 😎\n“Attitude देतो ते ही फ्री मध्ये”\n🎧 हेडफोन लावून जग जिंकतो\n🏡 नगरकर, अख्खा महाराष्ट्र आपला!",
+      "language": "Marathi",
+      "categories": ["Royal", "Attitude", "Music", "Marathi", "Male"],
+      "keywords": ["रॉयल", "Attitude", "फ्री", "हेडफोन", "जग जिंकतो", "नगरकर", "महाराष्ट्र"],
+      "gender": "Male"
+    },
+    {
+      "id": "marathi_bio_018",
+      "text": "माझं नाव राॅयल 😎\nशिवरायांच्या मावळ्याचा अभिमान 🚩\nशांत स्वभाव, पण वाघाचं काळीज 🐯\n#AttitudeOn #MH12",
+      "language": "Marathi",
+      "categories": ["Royal", "Attitude", "Maratha", "Male", "Marathi"],
+      "keywords": ["रॉयल", "शिवराय", "मावळा", "अभिमान", "शांत स्वभाव", "वाघाचं काळीज", "AttitudeOn", "MH12"],
+      "gender": "Male"
+    },
+    {
+      "id": "marathi_bio_019",
+      "text": "मराठमोळा मुलगा 🔥\n“भिक नको, शान हवी” – आमचा मंत्र!\nB'day: 5 Jun 🎂\nMusic, Bike & Swag ही रोजची गरज 🎧🏍️",
+      "language": "Marathi",
+      "categories": ["Attitude", "Swag", "Music", "Bike", "Male", "Marathi", "Birthday"],
+      "keywords": ["मराठमोळा मुलगा", "भिक नको", "शान हवी", "5 Jun", "Music", "Bike", "Swag"],
+      "gender": "Male"
+    },
+    {
+      "id": "marathi_bio_020",
+      "text": "छत्रपतींची प्रेरणा ⚔️\nआईचा लाडका, मित्रांचा तडका ❤️\nSingle आहे पण दिलदार 😜\n#MarathaBlood #NoLimits",
+      "language": "Marathi",
+      "categories": ["Maratha", "Family", "Friendship", "Single", "Male", "Marathi"],
+      "keywords": ["छत्रपती", "प्रेरणा", "आईचा लाडका", "मित्रांचा तडका", "Single", "दिलदार", "MarathaBlood", "NoLimits"],
+      "gender": "Male"
+    },
+    {
+      "id": "marathi_bio_021",
+      "text": "MH 15 चा पोरगा 🏠\nशांततेत जगायचं, पण गरज पडल्यास वाघ व्हायचं! 🐯\nआणि हो… 25 April ला कोणी विसरू नका 🎂\n#RoyalVibe #RespectAll",
+      "language": "Marathi",
+      "categories": ["Attitude", "Royal", "Respect", "Male", "Marathi", "Birthday"],
+      "keywords": ["MH 15 चा पोरगा", "शांतता", "वाघ", "25 April", "RoyalVibe", "RespectAll"],
+      "gender": "Male"
+    },
+    {
+      "id": "marathi_bio_022",
+      "text": "मस्तानी Punekar 😎\nशिवभक्ती रक्तात, स्वॅग नजरेत 🙏🚩\nGym Lover 🏋️, Photography Craze 📸\nमित्र म्हणतात, “हाच तो बिनधास्त मराठी मुलगा!”",
+      "language": "Marathi",
+      "categories": ["Punekar", "Maratha", "Swag", "Gym", "Photography", "Male", "Marathi"],
+      "keywords": ["मस्तानी Punekar", "शिवभक्ती", "स्वॅग", "Gym Lover", "Photography Craze", "बिनधास्त मराठी मुलगा"],
+      "gender": "Male"
+    },
+    {
+      "id": "marathi_bio_023",
+      "text": "पँथरची चाल 🐾, माणुसकीची शान 🙌\nSingle but Ready to Mingle 😉\nMusic लावलं की जग बाजूला ठेवतो 🎧\n#BornFree #मराठीअस्मिता",
+      "language": "Mixed (Marathi/English)",
+      "categories": ["Attitude", "Humanity", "Single", "Music", "Male", "Marathi"],
+      "keywords": ["पँथरची चाल", "माणुसकीची शान", "Single", "Ready to Mingle", "Music", "BornFree", "मराठीअस्मिता"],
+      "gender": "Male"
+    },
+    {
+      "id": "marathi_bio_024",
+      "text": "शांत पाणी खोल असतं…\nआणि मराठी पोरगं खोल Attitude ठेवतं! 😎\n16 Nov माझा दिन 🎂\n📷 #PhotoFreak | 🍕 #Foodie",
+      "language": "Marathi",
+      "categories": ["Attitude", "Photography", "Foodie", "Male", "Marathi", "Birthday"],
+      "keywords": ["शांत पाणी", "खोल", "मराठी पोरगं", "Attitude", "16 Nov", "PhotoFreak", "Foodie"],
+      "gender": "Male"
+    },
+    {
+      "id": "marathi_bio_025",
+      "text": "वाघाचं पिल्लू असलं तरी… 🐅\nजिवाभावाची मैत्री कायम! 👥\nCakecut on 20 May 🎂\n#लढणं आमच्या रक्तात",
+      "language": "Marathi",
+      "categories": ["Attitude", "Friendship", "Male", "Marathi", "Birthday"],
+      "keywords": ["वाघाचं पिल्लू", "जिवाभावाची मैत्री", "20 May", "लढणं", "रक्तात"],
+      "gender": "Male"
+    },
+    {
+      "id": "marathi_bio_026",
+      "text": "गर्दीत राहूनही वेगळा राहतो 🤘\nमनात भगवा, शब्दात मराठी! 🚩\nB-Day 14 Jan 🎂\n#GymAddict #TravelFreak",
+      "language": "Marathi",
+      "categories": ["Attitude", "Maratha", "Gym", "Travel", "Male", "Marathi", "Birthday"],
+      "keywords": ["गर्दीत", "वेगळा", "भगवा", "मराठी", "14 Jan", "GymAddict", "TravelFreak"],
+      "gender": "Male"
+    },
+    {
+      "id": "marathi_bio_027",
+      "text": "नाद करायचा तर “साहेबांचा” 🚩\nशिवशाहीची शान, लोकांची जान 👑\nतिथं उगाच वाद नको 🙅\n#मराठी_पोरगा #NoDrama",
+      "language": "Marathi",
+      "categories": ["Maratha", "Attitude", "Marathi", "Male"],
+      "keywords": ["नाद", "साहेबांचा", "शिवशाही", "शान", "लोकांची जान", "वाद", "मराठी_पोरगा", "NoDrama"],
+      "gender": "Male"
+    },
+    {
+      "id": "marathi_bio_028",
+      "text": "सिर्फ नाम ही काफी है 😎\nZindagi full luxury mode ON\n📍VIP zone activated\n#RoyalAttitude",
+      "language": "Mixed (Hindi/English)",
+      "categories": ["VIP", "Royal", "Attitude", "Luxury", "Male", "Mixed Language"],
+      "keywords": ["नाम", "काफी", "Zindagi", "luxury mode", "VIP zone", "RoyalAttitude"],
+      "gender": "Male"
+    },
+    {
+      "id": "marathi_bio_029",
+      "text": "नज़रें झुकी नहीं, नजरअंदाज़ किया है 🕶️\nVIP since birth, not by chance\n📍Entry restricted for basics\n#RoyalVibe #AttitudeKing",
+      "language": "Mixed (Hindi/English)",
+      "categories": ["VIP", "Royal", "Attitude", "Male", "Mixed Language"],
+      "keywords": ["नज़रें झुकी नहीं", "नजरअंदाज़", "VIP", "birth", "Entry restricted", "RoyalVibe", "AttitudeKing"],
+      "gender": "Male"
+    },
+    {
+      "id": "marathi_bio_030",
+      "text": "n.@.m.e. │ 96 मऱ्हाटी\n⚔️ क्षत्रियकुलावतंस ⚔️\n🚩 छत्रपती शिवरायांची प्रेरणा 🚩\n🎂 Cake Day – 10 Feb\n🏍️ Bike ची नशा, Music माझी हवा 🎧\n👑 Single but King Attitude 👑",
+      "language": "Mixed (Marathi/English)",
+      "categories": ["Attitude", "Maratha", "Single", "Music", "Bike", "Male", "Marathi", "Birthday"],
+      "keywords": ["96 मऱ्हाटी", "क्षत्रियकुलावतंस", "छत्रपती शिवराय", "प्रेरणा", "10 Feb", "Bike", "Music", "King Attitude"],
+      "gender": "Male"
+    },
+    {
+      "id": "marathi_bio_031",
+      "text": "ᗰr. Khaḷṇayak\n👉 शिवभक्त 🚩\n😎 मराठा स्वॅग, Single Boy Swag 😎\n🍕Foodie | 🎮Gaming | 📸Photo Freak\n#GiveRespectTakeRespect",
+      "language": "Mixed (Marathi/English)",
+      "categories": ["Attitude", "Maratha", "Single", "Foodie", "Gaming", "Photography", "Male", "Marathi"],
+      "keywords": ["Khaḷṇayak", "शिवभक्त", "मराठा स्वॅग", "Single Boy Swag", "Foodie", "Gaming", "Photo Freak", "GiveRespectTakeRespect"],
+      "gender": "Male"
+    },
+    {
+      "id": "marathi_bio_032",
+      "text": "@MH_13 शेळके\n😭 First Cry – 07 Aug\n🗡️ ९६ कुळी मराठा, कट्टर हिंदू 🗡️\n⛳ कडेवर भगवा, मनात माणुसकी ⛳\n💻 BCS Graduate, Tech is Life\n“राडा नाही, फक्त नाद!”",
+      "language": "Marathi",
+      "categories": ["Maratha", "Attitude", "Hindu", "Tech", "Male", "Marathi", "Birthday"],
+      "keywords": ["MH_13 शेळके", "07 Aug", "९६ कुळी मराठा", "कट्टर हिंदू", "भगवा", "माणुसकी", "BCS Graduate", "Tech", "राडा नाही", "फक्त नाद"],
+      "gender": "Male"
+    },
+    {
+      "id": "marathi_bio_033",
+      "text": "B . I . O\n🌟Wish me 19 May 🌟\n🎶 EDM Lover | 🎥 Vlogger\n🐍Snake fascination | 👊🏻Gym Freak\nदैवत – छ.शिवाजी महाराज 🚩\nNever Back Down",
+      "language": "Mixed (Marathi/English)",
+      "categories": ["Attitude", "Music", "Vlogging", "Gym", "Maratha", "Male", "Marathi", "Birthday"],
+      "keywords": ["19 May", "EDM Lover", "Vlogger", "Snake fascination", "Gym Freak", "छ.शिवाजी महाराज", "Never Back Down"],
+      "gender": "Male"
+    },
+    {
+      "id": "marathi_bio_034",
+      "text": "Palghar ला जन्म,\nमहाराष्ट्र माझं कर्म 😎\nजय भवानी जय शिवाजी 🚩\nResPecT gIrL 👩 | 🎧 BASSLOVER\nF0ll0w Me T0 Kn0w ME",
+      "language": "Mixed (Marathi/English)",
+      "categories": ["Attitude", "Maratha", "Music", "Respect", "Male", "Marathi"],
+      "keywords": ["Palghar", "महाराष्ट्र", "जय भवानी जय शिवाजी", "Respect Girl", "BASSLOVER", "F0ll0w Me T0 Kn0w ME"],
+      "gender": "Male"
+    },
+    {
+      "id": "marathi_bio_035",
+      "text": "♔Yuva_Prince♔\n📍मुंबईकर | #Artist 🎨\n🎂 जन्मदिन 29 Dec\n🙅 Hate Fake People\n🚩 #MarathaByHeart\n#RespectAndRise",
+      "language": "Mixed (Marathi/English)",
+      "categories": ["Artist", "Mumbai", "Attitude", "Maratha", "Male", "Marathi", "Birthday"],
+      "keywords": ["Yuva_Prince", "मुंबईकर", "Artist", "29 Dec", "Hate Fake People", "MarathaByHeart", "RespectAndRise"],
+      "gender": "Male"
+    },
+    {
+      "id": "marathi_bio_036",
+      "text": "शांतपणे जगतो 🔥\nपण गरज पडली तर भिंती हादरवतो 💥\nMH 14 Karad | 1st Cry 2 Apr 🎂\n👑 गोरेगावकर👑\n#GirlRespect #BeReal",
+      "language": "Mixed (Marathi/English)",
+      "categories": ["Attitude", "Respect", "Male", "Marathi", "Birthday"],
+      "keywords": ["शांतपणे जगतो", "भिंती हादरवतो", "MH 14 Karad", "2 Apr", "गोरेगावकर", "GirlRespect", "BeReal"],
+      "gender": "Male"
+    },
+    {
+      "id": "marathi_bio_037",
+      "text": "༒@ItzDada༒ 👿Status – खलनायक मोड😈\n📍नांदेडकर, 96 Maratha🚩\n🥇 क्रिकेट & Music माझी जान 🏏🎧\nThumsup लव्वर | Atelophobic",
+      "language": "Mixed (Marathi/English)",
+      "categories": ["Attitude", "Maratha", "Cricket", "Music", "Male", "Marathi"],
+      "keywords": ["ItzDada", "खलनायक मोड", "नांदेडकर", "96 Maratha", "क्रिकेट", "Music", "Thumsup लव्वर", "Atelophobic"],
+      "gender": "Male"
+    },
+    {
+      "id": "marathi_bio_038",
+      "text": "R__/ Patil\n🍁 कडक मराठी मुलगा 🍁\n🎂 Cake Ritual – 1 Apr\n#Bullet Lover 🚩 #HatkeAttitude\nछत्रपतींसाठी जान द्यायला तयार",
+      "language": "Marathi",
+      "categories": ["Attitude", "Maratha", "Bike", "Male", "Marathi", "Birthday"],
+      "keywords": ["Patil", "कडक मराठी मुलगा", "1 Apr", "Bullet Lover", "HatkeAttitude", "छत्रपतींसाठी जान"],
+      "gender": "Male"
+    },
+    {
+      "id": "marathi_bio_039",
+      "text": "[ShivRaySpecial]\n🏠 पुणेकर – MH 12\n🎧 Headphones On, World Off\n💪 NCC Cadet | भारतीय फौज🚩\nHindi Khatarnak, but Marathi Solid\n#HardWorkWins",
+      "language": "Mixed (Marathi/Hindi/English)",
+      "categories": ["Maratha", "Music", "Fitness", "Army", "Male", "Punekar", "Marathi"],
+      "keywords": ["ShivRaySpecial", "पुणेकर", "MH 12", "Headphones On", "NCC Cadet", "भारतीय फौज", "Hindi Khatarnak", "Marathi Solid", "HardWorkWins"],
+      "gender": "Male"
+    },
+    {
+      "id": "marathi_bio_040",
+      "text": "♛SURYAwanshi♛\n🚩कट्टर मराठा🚩\n🔥 क्षत्रियकुलावतंस\n📽️ फोटोग्राफीची आवड\n🗓️ B'day 9 Oct\n“भिक नको, माज हवा!”",
+      "language": "Marathi",
+      "categories": ["Attitude", "Maratha", "Photography", "Male", "Marathi", "Birthday"],
+      "keywords": ["SURYAwanshi", "कट्टर मराठा", "क्षत्रियकुलावतंस", "फोटोग्राफीची आवड", "9 Oct", "भिक नको", "माज हवा"],
+      "gender": "Male"
+    },
+    {
+      "id": "marathi_bio_041",
+      "text": "ᴿᵒʸᵃˡ Jhadhav\n🐆जानवरांवर प्रेम, माणसांवर वेळ मिळेल तितकं\n🎂Birthday: 12 July\n🎮FPS Gamer | 🎶Bollywood Beats\nआदर्श – छत्रपती संभाजीराजे",
+      "language": "Mixed (Marathi/English)",
+      "categories": ["Royal", "Gaming", "Music", "Maratha", "Male", "Marathi", "Birthday"],
+      "keywords": ["Royal Jhadhav", "जानवरांवर प्रेम", "12 July", "FPS Gamer", "Bollywood Beats", "छत्रपती संभाजीराजे"],
+      "gender": "Male"
+    },
+    {
+      "id": "marathi_bio_042",
+      "text": "🚩क्षत्रियकुलावतंस🚩\n⚔️ ９６ ᴍᴀʀᴀᴛʜᴀ ⚔️\n👑”शिवरायांचे अनुयायी”👑\n💢ɪɴᴅɪᴀɴ ᴀʀᴍʏ ᴀsᴘɪʀᴀɴᴛ💢\n🎂ғɪʀsᴛ ᴇᴀʀᴛʜqᴜᴀᴋᴇ 10 Jan\n🔥ᴀᴛᴛɪᴛᴜᴅᴇ ᴏɴ, ғᴇᴀʀ ɢᴏɴᴇ🔥",
+      "language": "Mixed (Marathi/English)",
+      "categories": ["Attitude", "Maratha", "Army", "Male", "Marathi", "Birthday"],
+      "keywords": ["क्षत्रियकुलावतंस", "96 MARATHA", "शिवरायांचे अनुयायी", "INDIAN ARMY ASPIRANT", "10 Jan", "ATTITUDE ON", "FEAR GONE"],
+      "gender": "Male"
+    }
+  ]
+}
